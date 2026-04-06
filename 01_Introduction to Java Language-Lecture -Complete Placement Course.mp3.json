@@ -1,0 +1,2273 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "start": 0.0,
+            "end": 5.0,
+            "text": " Hi everyone and welcome to our college and in this video we are going to start with our Java course.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 5.0,
+            "end": 10.0,
+            "text": " We have divided this course into two parts, which is the first part of the introduction to programming.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 10.0,
+            "end": 16.0,
+            "text": " We use Java and what is the coding programming and what is the learning.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 16.0,
+            "end": 26.0,
+            "text": " The fundamental thing that we need to know is that we will learn all the things in the beginning and in the second part we will learn data structures and algorithms.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 26.0,
+            "end": 36.0,
+            "text": " The programming will be the first class we will learn today, what is the coding and how the coding is.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 36.0,
+            "end": 42.0,
+            "text": " We will install our code editors in the next class input, output variables and data types.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 42.0,
+            "end": 48.0,
+            "text": " We will cover some topics in the next 12 days in the next 12 classes.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 48.0,
+            "end": 51.0,
+            "text": " Let's learn Java with our Shandhar course.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 51.0,
+            "end": 59.0,
+            "text": " If we want to talk to someone in real life, then we give them a set of instructions that we can give to a language.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 59.0,
+            "end": 63.0,
+            "text": " As I am talking to you, I am talking in Hindi language.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 63.0,
+            "end": 71.0,
+            "text": " We can talk in English, but if we want to work with a computer or laptop or mobile, then we have to tell them.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 71.0,
+            "end": 77.0,
+            "text": " In English, we don't understand it, but we understand it in binary, that is zero and one.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 77.0,
+            "end": 80.0,
+            "text": " Sister, why is this zero and one?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 80.0,
+            "end": 86.0,
+            "text": " Because our laptop and computer are electrical devices, which run from the middle.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 86.0,
+            "end": 90.0,
+            "text": " So when we represent the current in the circuit, we can represent it from one to the other.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 90.0,
+            "end": 95.0,
+            "text": " And when we don't represent the current in the circuit, then we can represent it from zero.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 95.0,
+            "end": 102.0,
+            "text": " Or when devices are detecting high voltage devices, then we represent it from plus 1.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 102.0,
+            "end": 106.0,
+            "text": " Or when we are detecting low voltage, then we represent it from zero.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 106.0,
+            "end": 114.0,
+            "text": " So in this way, we believe that the real life decimals are the numbers that we represent with zero in binary.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 114.0,
+            "end": 118.0,
+            "text": " The number of decimals is 1 in binary.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 118.0,
+            "end": 122.0,
+            "text": " The number of decimals is 3 in binary.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 122.0,
+            "end": 127.0,
+            "text": " And in decimals, we can represent 4 co-we can represent with 1, 0 in binary.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 127.0,
+            "end": 130.0,
+            "text": " And in this way, we go ahead.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 130.0,
+            "end": 139.0,
+            "text": " Like this, A, B, C, D, E, F, G, or special characters, the more things we have, we can understand the computer in the combination of 1 and 0.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 139.0,
+            "end": 143.0,
+            "text": " Now, if you want to make a thing in the brain, then it seems very complicated.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 143.0,
+            "end": 152.0,
+            "text": " Tomorrow, if I have to do 2 numbers, like 53 plus 72, then it will take a lot of time to convert it into zero.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 152.0,
+            "end": 158.0,
+            "text": " So I have said that here, our high level languages help us.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 158.0,
+            "end": 162.0,
+            "text": " How? In this course, the high level languages we are learning will be Java.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 162.0,
+            "end": 165.0,
+            "text": " So in Java, we write our code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 165.0,
+            "end": 170.0,
+            "text": " And in computer, a compiler is sitting, which converts it into binary format.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 170.0,
+            "end": 173.0,
+            "text": " The computer is available in the understanding.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 173.0,
+            "end": 176.0,
+            "text": " And here, we start our coding journey.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 176.0,
+            "end": 181.0,
+            "text": " So you have learned to talk, but we have to give some set of instructions to the computer.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 181.0,
+            "end": 185.0,
+            "text": " To give these instructions, we have to program.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 185.0,
+            "end": 192.0,
+            "text": " So we will use the Java language code to give commands or instructions to the computer to perform something.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 192.0,
+            "end": 196.0,
+            "text": " Now, if you don't understand this, then let's take an example.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 196.0,
+            "end": 202.0,
+            "text": " Now, in day to day life, if we want to execute some work, then for that, we have to do some set of instructions.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 202.0,
+            "end": 211.0,
+            "text": " As soon as we understand a flow chart, as soon as we start, I want some raw material like maggi, masala and water.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 211.0,
+            "end": 215.0,
+            "text": " Along with that, we need a barton and a stove to cook it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 215.0,
+            "end": 221.0,
+            "text": " Next step is to add the maggi in the barton and cook it after that.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 221.0,
+            "end": 225.0,
+            "text": " Let's boil it and check what our maggi is.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 225.0,
+            "end": 229.0,
+            "text": " If maggi is not cooked, then let's say we boil it more.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 229.0,
+            "end": 232.0,
+            "text": " And if it is cooked, then let's turn off the gas.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 232.0,
+            "end": 235.0,
+            "text": " Then let's serve the maggi and eat it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 235.0,
+            "end": 238.0,
+            "text": " Then we have exited our flow chart.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 238.0,
+            "end": 244.0,
+            "text": " Similarly, when we want to explain to the computer, then we use such set of instructions.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 244.0,
+            "end": 249.0,
+            "text": " Before we write them in the code, let's see how they will be explained to the flow chart.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 249.0,
+            "end": 254.0,
+            "text": " We will know how similar our communication is in real life.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 254.0,
+            "end": 261.0,
+            "text": " And we will write the same set of instructions in the code, in the computer science language, in the code of pseudo code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 261.0,
+            "end": 269.0,
+            "text": " Now what we want to do is, we want to take two numbers from someone and calculate their time and print them.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 269.0,
+            "end": 273.0,
+            "text": " How will we represent the same logic from the flow chart?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 273.0,
+            "end": 278.0,
+            "text": " We will start first, so we will draw our start.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 279.0,
+            "end": 283.0,
+            "text": " After that, for input, we will take our variables to input.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 283.0,
+            "end": 288.0,
+            "text": " First, we will store the variable in number 1 and then we will store the variable in number 2.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 288.0,
+            "end": 292.0,
+            "text": " We have two numbers, number 2 is the input from the user.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 292.0,
+            "end": 297.0,
+            "text": " After that, we will store the number in the variable in the sum name.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 297.0,
+            "end": 301.0,
+            "text": " In sum, number 1 plus number 2, we added and added.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 301.0,
+            "end": 307.0,
+            "text": " After that, we will print our sum and finally we will exit.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 307.0,
+            "end": 312.0,
+            "text": " So, the flow we want to do is the work.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 312.0,
+            "end": 317.0,
+            "text": " Similarly, if we talk about pseudo code, what will be the first step in pseudo code?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 317.0,
+            "end": 324.0,
+            "text": " After that, we will calculate the numbers in the sum number 1 plus number 2.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 324.0,
+            "end": 330.0,
+            "text": " Then we will print the sum and finally we will exit from our code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 330.0,
+            "end": 338.0,
+            "text": " So, the flow of pseudo code is the way to represent the simple language of English.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 338.0,
+            "end": 345.0,
+            "text": " And then we will convert the same pseudo code into actual Java or C++ or Python code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 345.0,
+            "end": 350.0,
+            "text": " Now, we will have to install Java in the first step.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 350.0,
+            "end": 356.0,
+            "text": " We will have to install Java's Java Development Kit.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 356.0,
+            "end": 363.0,
+            "text": " This is a kit that contains all the things that you need to run on your system.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 363.0,
+            "end": 370.0,
+            "text": " So, whenever you have to write a code, a program, and run it on any system,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 370.0,
+            "end": 374.0,
+            "text": " then we need to get some necessary tools to get some Java development kit.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 374.0,
+            "end": 379.0,
+            "text": " Along with that, we will have to download a code editor or IDE,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " or Integrated Development Environment.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 381.0,
+            "end": 386.0,
+            "text": " We will use the Visual Studio Code or VS Code in our course.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 386.0,
+            "end": 391.0,
+            "text": " You can also use IntelliJay or Eclipse.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 391.0,
+            "end": 395.0,
+            "text": " These are some software like we are downloading games for games.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 395.0,
+            "end": 398.0,
+            "text": " We need to download a software for the code to write a code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 398.0,
+            "end": 401.0,
+            "text": " We need to download a laptop or computer.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 401.0,
+            "end": 405.0,
+            "text": " After downloading these software, we are writing our code on them.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 405.0,
+            "end": 412.0,
+            "text": " And we are showing them to us that what is our actual result.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 412.0,
+            "end": 415.0,
+            "text": " Now, we have already made two videos.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 415.0,
+            "end": 418.0,
+            "text": " We are going to download a VS Code in English and Hindi.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 418.0,
+            "end": 424.0,
+            "text": " This is the first video in which you will be getting to see in the second index in the C++.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 424.0,
+            "end": 430.0,
+            "text": " We have downloaded it and shown you the components of the C++.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " We don't need to download all of them.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 432.0,
+            "end": 437.0,
+            "text": " We just need to download the Java Development Kit with the Visual Studio Code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 437.0,
+            "end": 440.0,
+            "text": " Now, whether you are working on Windows or Mac,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 440.0,
+            "end": 443.0,
+            "text": " or you are doing two things to download.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 443.0,
+            "end": 446.0,
+            "text": " You can refer to these two videos.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 446.0,
+            "end": 449.0,
+            "text": " Along with that, if you want to download IntelliJay,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 449.0,
+            "end": 453.0,
+            "text": " then we have already made a video about the Java OneShot.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 453.0,
+            "end": 458.0,
+            "text": " If you go to the one-shot, you will get a complete installation process",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 458.0,
+            "end": 464.0,
+            "text": " of how to download Java Development Kit and how to download IntelliJay.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 464.0,
+            "end": 467.0,
+            "text": " Along with that, we also show you that",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 467.0,
+            "end": 470.0,
+            "text": " as soon as you go to your Chrome,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 470.0,
+            "end": 473.0,
+            "text": " then all the browsers that you use,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 473.0,
+            "end": 478.0,
+            "text": " you have to search for the Java Development Kit.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 478.0,
+            "end": 485.0,
+            "text": " And in this way, the first link of the Oracle will be available.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 486.0,
+            "end": 488.0,
+            "text": " You will go to that.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 488.0,
+            "end": 492.0,
+            "text": " So, you will get different formats to download.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 492.0,
+            "end": 496.0,
+            "text": " If you are working on Linux, you can download it from them.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 496.0,
+            "end": 498.0,
+            "text": " If you are working on Windows,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 498.0,
+            "end": 502.0,
+            "text": " then you can download the Java Development Kit from your system.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 502.0,
+            "end": 505.0,
+            "text": " And if you are working on Mac, then this is your link.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 505.0,
+            "end": 509.0,
+            "text": " So, you download the Java Development Kit with the same download,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 509.0,
+            "end": 511.0,
+            "text": " and download it with the same editor.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 511.0,
+            "end": 515.0,
+            "text": " Another option is that you get the entire Java developer pack.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 515.0,
+            "end": 517.0,
+            "text": " So, what Microsoft did?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 517.0,
+            "end": 520.0,
+            "text": " We have got some extensions with Visual Studio Code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 520.0,
+            "end": 522.0,
+            "text": " We have got the Java Development Kit.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 522.0,
+            "end": 527.0,
+            "text": " You will get all the things you will download in one link.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 527.0,
+            "end": 529.0,
+            "text": " So, let's search for them.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 529.0,
+            "end": 537.0,
+            "text": " Visual Studio Code Installer Pack Java.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 538.0,
+            "end": 542.0,
+            "text": " So, the first link will be the Java Visual Studio Code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 542.0,
+            "end": 545.0,
+            "text": " We have to scroll a little bit inside it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 545.0,
+            "end": 548.0,
+            "text": " And installing the coding pack for Java Windows,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 548.0,
+            "end": 550.0,
+            "text": " if you use Windows,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 550.0,
+            "end": 553.0,
+            "text": " or installing the coding pack for Java Mac OS,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 553.0,
+            "end": 555.0,
+            "text": " if you use Mac,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 555.0,
+            "end": 559.0,
+            "text": " then you can set the code in your system",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 559.0,
+            "end": 564.0,
+            "text": " and write the code we will write on the same editor.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 565.0,
+            "end": 567.0,
+            "text": " Now, if we look at the code editor,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 567.0,
+            "end": 574.0,
+            "text": " then we will see how we will see the visual studio Code in a new file.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 574.0,
+            "end": 577.0,
+            "text": " So, you can create a new file.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 577.0,
+            "end": 581.0,
+            "text": " Now, we will write in this file the first Java Code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 581.0,
+            "end": 583.0,
+            "text": " Now, before writing the code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 583.0,
+            "end": 585.0,
+            "text": " we will talk about the classes of the beginning.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 585.0,
+            "end": 587.0,
+            "text": " The code we are writing,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 587.0,
+            "end": 591.0,
+            "text": " if you are looking at the first time in the coding,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 591.0,
+            "end": 594.0,
+            "text": " then you can not get a little worried about it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 594.0,
+            "end": 596.0,
+            "text": " But, we do not want to listen to it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " We want to understand things.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " We want to try to understand it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 600.0,
+            "end": 602.0,
+            "text": " Like, if we learn French,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 602.0,
+            "end": 605.0,
+            "text": " then we will get a lot of different things and we will not understand it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 605.0,
+            "end": 608.0,
+            "text": " But after a little while, we will understand the things.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 608.0,
+            "end": 611.0,
+            "text": " So, we will have to see the faith on the code that we will have to see.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 611.0,
+            "end": 614.0,
+            "text": " When we will see the code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 614.0,
+            "end": 617.0,
+            "text": " then we will understand the meaning of things.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 617.0,
+            "end": 619.0,
+            "text": " So, we will write the code in the first class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 619.0,
+            "end": 621.0,
+            "text": " We will write the code in the first class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 621.0,
+            "end": 623.0,
+            "text": " We will not understand anything.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 623.0,
+            "end": 625.0,
+            "text": " We will understand everything.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 625.0,
+            "end": 627.0,
+            "text": " So, we need to understand the things.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 627.0,
+            "end": 629.0,
+            "text": " First of all, in the Java Code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 629.0,
+            "end": 631.0,
+            "text": " we will write a class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 631.0,
+            "end": 633.0,
+            "text": " So, we will take the name of the class first.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 633.0,
+            "end": 636.0,
+            "text": " The class we have given the name of the class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 636.0,
+            "end": 640.0,
+            "text": " Then, we will create a public static void main name function,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 640.0,
+            "end": 644.0,
+            "text": " which will be the string argument.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 645.0,
+            "end": 650.0,
+            "text": " So, in some way, the Java code is the same template.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 650.0,
+            "end": 653.0,
+            "text": " In which you define a class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 653.0,
+            "end": 655.0,
+            "text": " And you define a function.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 655.0,
+            "end": 657.0,
+            "text": " Now, what is the function of a class?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 657.0,
+            "end": 660.0,
+            "text": " We will understand it later.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 660.0,
+            "end": 663.0,
+            "text": " But now, let us assume that whenever the Java code is written,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 663.0,
+            "end": 665.0,
+            "text": " we have to do this.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 665.0,
+            "end": 668.0,
+            "text": " And what will the file be doing?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 668.0,
+            "end": 672.0,
+            "text": " The file that you have given the name of the class within the Java",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 672.0,
+            "end": 674.0,
+            "text": " will be the same name of your Java file.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 674.0,
+            "end": 677.0,
+            "text": " The first class we have given the name of the class,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 677.0,
+            "end": 684.0,
+            "text": " we will save our Java file as firstclass.java.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 684.0,
+            "end": 687.0,
+            "text": " So, the Java file that we save in the Java file,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 687.0,
+            "end": 689.0,
+            "text": " is saved from the name of the dot Java.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 689.0,
+            "end": 691.0,
+            "text": " Like, in the 11-12th class,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 691.0,
+            "end": 693.0,
+            "text": " or whenever we were studying computer science in school,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 693.0,
+            "end": 696.0,
+            "text": " we would save the text file from the dot TXT name.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 696.0,
+            "end": 699.0,
+            "text": " So, all the files we save from the dot Java file,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 699.0,
+            "end": 701.0,
+            "text": " we have saved it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 701.0,
+            "end": 705.0,
+            "text": " So, in this way, the color coding has come to our text editor,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 705.0,
+            "end": 709.0,
+            "text": " where you will see some different colors.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 709.0,
+            "end": 711.0,
+            "text": " You will know the time that,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 711.0,
+            "end": 714.0,
+            "text": " why different colors are different in different worlds.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 714.0,
+            "end": 718.0,
+            "text": " Now, we have understood that this is something template to write your Java code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 718.0,
+            "end": 721.0,
+            "text": " Now, the first thing that we have to write is the first code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 721.0,
+            "end": 724.0,
+            "text": " usually, all the programming languages in the code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 724.0,
+            "end": 726.0,
+            "text": " they are the hello world,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 726.0,
+            "end": 730.0,
+            "text": " which is used for the first time in which you are saying hello to your programming language.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 730.0,
+            "end": 732.0,
+            "text": " So, let us write it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 732.0,
+            "end": 736.0,
+            "text": " System.out.println.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 736.0,
+            "end": 739.0,
+            "text": " Hello world.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 741.0,
+            "end": 743.0,
+            "text": " We have saved it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " Now, we will run this code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 745.0,
+            "end": 748.0,
+            "text": " After running, you will know that,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 748.0,
+            "end": 750.0,
+            "text": " what happens with the actual code?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 750.0,
+            "end": 752.0,
+            "text": " What does the Java code mean?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 752.0,
+            "end": 755.0,
+            "text": " We saved this line in our file,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 755.0,
+            "end": 757.0,
+            "text": " now, click on the right and run,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 757.0,
+            "end": 759.0,
+            "text": " and click on the right and run.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 759.0,
+            "end": 763.0,
+            "text": " So, for us, something like print will be printed.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 763.0,
+            "end": 765.0,
+            "text": " Hello world.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 765.0,
+            "end": 767.0,
+            "text": " Now, how can we understand this?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 767.0,
+            "end": 770.0,
+            "text": " As we see, many of the coders write a lot of code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 770.0,
+            "end": 772.0,
+            "text": " And then, what is the output?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 772.0,
+            "end": 774.0,
+            "text": " We see a website.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 774.0,
+            "end": 778.0,
+            "text": " Similarly, the Java code we have written here,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 778.0,
+            "end": 782.0,
+            "text": " because of this, we have started to see this hello world on our screen.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 782.0,
+            "end": 784.0,
+            "text": " So, this is something,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 784.0,
+            "end": 786.0,
+            "text": " which is in the coding,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 786.0,
+            "end": 789.0,
+            "text": " which can show you anything on the screen of the code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 789.0,
+            "end": 792.0,
+            "text": " Now, we are going to show you the output on the screen.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 792.0,
+            "end": 796.0,
+            "text": " Apart from this, you can get any data from the code of the user,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 796.0,
+            "end": 798.0,
+            "text": " which we call input.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 798.0,
+            "end": 801.0,
+            "text": " In the input output, we will be understanding in the next classes.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 801.0,
+            "end": 803.0,
+            "text": " Now, we have understood that,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 803.0,
+            "end": 806.0,
+            "text": " we run some Java code in this way,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 806.0,
+            "end": 808.0,
+            "text": " and we show an output.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 808.0,
+            "end": 810.0,
+            "text": " Now, let us understand,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 810.0,
+            "end": 812.0,
+            "text": " how do Java code actually run?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 812.0,
+            "end": 815.0,
+            "text": " For the Java code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 815.0,
+            "end": 818.0,
+            "text": " the code that is used in our code is used in two steps.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 818.0,
+            "end": 821.0,
+            "text": " The first step is compilation of the code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 821.0,
+            "end": 824.0,
+            "text": " and the second step is execution.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 824.0,
+            "end": 827.0,
+            "text": " Now, this theory is a little important,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 827.0,
+            "end": 831.0,
+            "text": " because this theory will never be asked in your placement interview.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 831.0,
+            "end": 834.0,
+            "text": " Or, if you read the Java in your college,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 834.0,
+            "end": 836.0,
+            "text": " then you will be in the exam.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 836.0,
+            "end": 839.0,
+            "text": " Now, the Java development kit we have downloaded,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 839.0,
+            "end": 840.0,
+            "text": " which is called JDE,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 840.0,
+            "end": 844.0,
+            "text": " which is the name of the JDE component,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 844.0,
+            "end": 849.0,
+            "text": " which we call Java runtime environment.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 849.0,
+            "end": 852.0,
+            "text": " With the JRE,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 852.0,
+            "end": 855.0,
+            "text": " there are many development tools available in it.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 855.0,
+            "end": 858.0,
+            "text": " And the JRE is also more component inside,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 858.0,
+            "end": 860.0,
+            "text": " which we call JVM,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 860.0,
+            "end": 865.0,
+            "text": " JVM means Java virtual machine.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 865.0,
+            "end": 868.0,
+            "text": " So, Java virtual machine, JRE and JDE,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 868.0,
+            "end": 871.0,
+            "text": " are formed in one level,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 871.0,
+            "end": 874.0,
+            "text": " they are stored in one level,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 874.0,
+            "end": 877.0,
+            "text": " and our entire Java code is run.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 877.0,
+            "end": 880.0,
+            "text": " Now, if we understand both the stages,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 880.0,
+            "end": 883.0,
+            "text": " then what happens in the compilation stage?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 883.0,
+            "end": 885.0,
+            "text": " The code we write,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 885.0,
+            "end": 888.0,
+            "text": " we call it source code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 888.0,
+            "end": 891.0,
+            "text": " We save the source code from the Java,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 891.0,
+            "end": 895.0,
+            "text": " and this entire code goes to a compiler.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 895.0,
+            "end": 898.0,
+            "text": " This compiler is inside the JDK,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 898.0,
+            "end": 901.0,
+            "text": " and this compiler has all the source code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 901.0,
+            "end": 904.0,
+            "text": " and this compiler is converted to source code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 904.0,
+            "end": 906.0,
+            "text": " in the byte code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 906.0,
+            "end": 909.0,
+            "text": " which is extension of dot class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 909.0,
+            "end": 913.0,
+            "text": " And this byte code can run in any operating system.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 913.0,
+            "end": 918.0,
+            "text": " As long as the operating system is in the Java runtime environment,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 918.0,
+            "end": 921.0,
+            "text": " if you have written the code within Linux,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 921.0,
+            "end": 924.0,
+            "text": " Windows, Mac, and so on,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 924.0,
+            "end": 927.0,
+            "text": " you can convert the code into a byte code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 927.0,
+            "end": 929.0,
+            "text": " and run it on any system.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 929.0,
+            "end": 931.0,
+            "text": " You can't do this with C++,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 931.0,
+            "end": 934.0,
+            "text": " that's why Java is called a portable language,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 934.0,
+            "end": 937.0,
+            "text": " because you can convert the apps that are created in this,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 937.0,
+            "end": 940.0,
+            "text": " and run it on any system.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 940.0,
+            "end": 942.0,
+            "text": " So, this is the first stage covered,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 942.0,
+            "end": 944.0,
+            "text": " which was the compilation stage.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 944.0,
+            "end": 947.0,
+            "text": " Now, if we talk about the second stage,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 947.0,
+            "end": 949.0,
+            "text": " which is the execution stage,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 949.0,
+            "end": 951.0,
+            "text": " so what happens in the execution stage?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 951.0,
+            "end": 954.0,
+            "text": " This byte code was with us.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 954.0,
+            "end": 958.0,
+            "text": " Now, Java Virtual Machine takes this byte code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 958.0,
+            "end": 961.0,
+            "text": " and converts it into native code.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 961.0,
+            "end": 963.0,
+            "text": " native code means,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 963.0,
+            "end": 966.0,
+            "text": " the code that came into the machine,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 966.0,
+            "end": 967.0,
+            "text": " we just talked about,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 967.0,
+            "end": 969.0,
+            "text": " the lowest level code that comes into the machine",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 969.0,
+            "end": 971.0,
+            "text": " comes into the 0 and 1.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 971.0,
+            "end": 975.0,
+            "text": " So, native code is the same code that comes into the machine.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 975.0,
+            "end": 978.0,
+            "text": " Now, when the byte code is converted into native code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 978.0,
+            "end": 981.0,
+            "text": " so whether your machine is Windows or Mac,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 981.0,
+            "end": 984.0,
+            "text": " now, Java code will come into the machine.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 984.0,
+            "end": 987.0,
+            "text": " Similarly, if you were to print a Hello World,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 987.0,
+            "end": 991.0,
+            "text": " then your machine is converted into native code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 991.0,
+            "end": 994.0,
+            "text": " and then your system will look like a Hello World.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 994.0,
+            "end": 997.0,
+            "text": " Now, if we talk about the components of our code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 997.0,
+            "end": 1000.0,
+            "text": " the first component of this is function.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1000.0,
+            "end": 1003.0,
+            "text": " Functions or methods are part of the code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1003.0,
+            "end": 1006.0,
+            "text": " which we perform something to perform.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1006.0,
+            "end": 1008.0,
+            "text": " If we were to add two numbers,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1008.0,
+            "end": 1011.0,
+            "text": " then the whole code of the whole is written in a function.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1011.0,
+            "end": 1013.0,
+            "text": " If we were to print a Hello World,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1013.0,
+            "end": 1016.0,
+            "text": " then all the codes we wrote in a function,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1016.0,
+            "end": 1018.0,
+            "text": " and what was the function?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1018.0,
+            "end": 1021.0,
+            "text": " The function was the void main name,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1021.0,
+            "end": 1023.0,
+            "text": " where the function name was main,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1023.0,
+            "end": 1025.0,
+            "text": " and the return type was void, void,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1025.0,
+            "end": 1026.0,
+            "text": " empty,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1026.0,
+            "end": 1028.0,
+            "text": " this function did not return anything.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1028.0,
+            "end": 1029.0,
+            "text": " It was only for us,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1029.0,
+            "end": 1031.0,
+            "text": " to print a Hello World.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1031.0,
+            "end": 1033.0,
+            "text": " So, the code we write in Java",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1033.0,
+            "end": 1035.0,
+            "text": " is written in the functions.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1035.0,
+            "end": 1039.0,
+            "text": " And we write the functions in the class.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1039.0,
+            "end": 1041.0,
+            "text": " So, the class is a big entity,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1041.0,
+            "end": 1044.0,
+            "text": " which can come in many functions.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1044.0,
+            "end": 1046.0,
+            "text": " How do we explain the class?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1046.0,
+            "end": 1048.0,
+            "text": " As our big kitchen is in the house,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1048.0,
+            "end": 1050.0,
+            "text": " there are many small doors,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1050.0,
+            "end": 1052.0,
+            "text": " which have some storage inside.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1052.0,
+            "end": 1054.0,
+            "text": " As the kitchen has a single door,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1054.0,
+            "end": 1056.0,
+            "text": " a single door is a door is a door is a door.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1056.0,
+            "end": 1058.0,
+            "text": " Similarly, in Java, the class is in the same,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1058.0,
+            "end": 1060.0,
+            "text": " which has small functions.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1060.0,
+            "end": 1062.0,
+            "text": " There is something in one function,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1062.0,
+            "end": 1064.0,
+            "text": " there is something else in the other function.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1064.0,
+            "end": 1067.0,
+            "text": " In Java, the main name function,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1067.0,
+            "end": 1070.0,
+            "text": " is the first part of the code of the entire code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1070.0,
+            "end": 1071.0,
+            "text": " which is executed.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1071.0,
+            "end": 1074.0,
+            "text": " So, in Java, the first thing in the main function,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1074.0,
+            "end": 1076.0,
+            "text": " first of all, it will be executed,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1076.0,
+            "end": 1079.0,
+            "text": " then all the codes of the code will be executed,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1079.0,
+            "end": 1081.0,
+            "text": " and then it will be executed.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1081.0,
+            "end": 1084.0,
+            "text": " So, today in the class, we have tried many things,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1084.0,
+            "end": 1087.0,
+            "text": " like what is the code, what is the coding?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1087.0,
+            "end": 1089.0,
+            "text": " How do we understand the machine,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1089.0,
+            "end": 1092.0,
+            "text": " and how do we actually write our Java code?",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1092.0,
+            "end": 1095.0,
+            "text": " I hope that you will download the code editor",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1095.0,
+            "end": 1098.0,
+            "text": " or visual studio code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1098.0,
+            "end": 1101.0,
+            "text": " or whatever editor you like,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1101.0,
+            "end": 1104.0,
+            "text": " with the help of Java, we will download the kit,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1104.0,
+            "end": 1107.0,
+            "text": " so that we can write the code with the help of the classes in the next class,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1107.0,
+            "end": 1110.0,
+            "text": " so that we can see that we are not having any problems,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1110.0,
+            "end": 1112.0,
+            "text": " or we are able to learn all the things,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1112.0,
+            "end": 1115.0,
+            "text": " because in the coding, it is more important to practice,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1115.0,
+            "end": 1117.0,
+            "text": " so, the more we practice,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1117.0,
+            "end": 1119.0,
+            "text": " the more we understand the code,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1119.0,
+            "end": 1120.0,
+            "text": " and we will understand that.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1120.0,
+            "end": 1122.0,
+            "text": " Today, we will meet in this next video,",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        },
+        {
+            "number": "1",
+            "start": 1122.0,
+            "end": 1124.0,
+            "text": " till then keep learning and keep practicing.",
+            "title": "Introduction to Java Language-Lecture -Complete Placement Course.mp3"
+        }
+    ],
+    "text": " Hi everyone and welcome to our college and in this video we are going to start with our Java course. We have divided this course into two parts, which is the first part of the introduction to programming. We use Java and what is the coding programming and what is the learning. The fundamental thing that we need to know is that we will learn all the things in the beginning and in the second part we will learn data structures and algorithms. The programming will be the first class we will learn today, what is the coding and how the coding is. We will install our code editors in the next class input, output variables and data types. We will cover some topics in the next 12 days in the next 12 classes. Let's learn Java with our Shandhar course. If we want to talk to someone in real life, then we give them a set of instructions that we can give to a language. As I am talking to you, I am talking in Hindi language. We can talk in English, but if we want to work with a computer or laptop or mobile, then we have to tell them. In English, we don't understand it, but we understand it in binary, that is zero and one. Sister, why is this zero and one? Because our laptop and computer are electrical devices, which run from the middle. So when we represent the current in the circuit, we can represent it from one to the other. And when we don't represent the current in the circuit, then we can represent it from zero. Or when devices are detecting high voltage devices, then we represent it from plus 1. Or when we are detecting low voltage, then we represent it from zero. So in this way, we believe that the real life decimals are the numbers that we represent with zero in binary. The number of decimals is 1 in binary. The number of decimals is 3 in binary. And in decimals, we can represent 4 co-we can represent with 1, 0 in binary. And in this way, we go ahead. Like this, A, B, C, D, E, F, G, or special characters, the more things we have, we can understand the computer in the combination of 1 and 0. Now, if you want to make a thing in the brain, then it seems very complicated. Tomorrow, if I have to do 2 numbers, like 53 plus 72, then it will take a lot of time to convert it into zero. So I have said that here, our high level languages help us. How? In this course, the high level languages we are learning will be Java. So in Java, we write our code. And in computer, a compiler is sitting, which converts it into binary format. The computer is available in the understanding. And here, we start our coding journey. So you have learned to talk, but we have to give some set of instructions to the computer. To give these instructions, we have to program. So we will use the Java language code to give commands or instructions to the computer to perform something. Now, if you don't understand this, then let's take an example. Now, in day to day life, if we want to execute some work, then for that, we have to do some set of instructions. As soon as we understand a flow chart, as soon as we start, I want some raw material like maggi, masala and water. Along with that, we need a barton and a stove to cook it. Next step is to add the maggi in the barton and cook it after that. Let's boil it and check what our maggi is. If maggi is not cooked, then let's say we boil it more. And if it is cooked, then let's turn off the gas. Then let's serve the maggi and eat it. Then we have exited our flow chart. Similarly, when we want to explain to the computer, then we use such set of instructions. Before we write them in the code, let's see how they will be explained to the flow chart. We will know how similar our communication is in real life. And we will write the same set of instructions in the code, in the computer science language, in the code of pseudo code. Now what we want to do is, we want to take two numbers from someone and calculate their time and print them. How will we represent the same logic from the flow chart? We will start first, so we will draw our start. After that, for input, we will take our variables to input. First, we will store the variable in number 1 and then we will store the variable in number 2. We have two numbers, number 2 is the input from the user. After that, we will store the number in the variable in the sum name. In sum, number 1 plus number 2, we added and added. After that, we will print our sum and finally we will exit. So, the flow we want to do is the work. Similarly, if we talk about pseudo code, what will be the first step in pseudo code? After that, we will calculate the numbers in the sum number 1 plus number 2. Then we will print the sum and finally we will exit from our code. So, the flow of pseudo code is the way to represent the simple language of English. And then we will convert the same pseudo code into actual Java or C++ or Python code. Now, we will have to install Java in the first step. We will have to install Java's Java Development Kit. This is a kit that contains all the things that you need to run on your system. So, whenever you have to write a code, a program, and run it on any system, then we need to get some necessary tools to get some Java development kit. Along with that, we will have to download a code editor or IDE, or Integrated Development Environment. We will use the Visual Studio Code or VS Code in our course. You can also use IntelliJay or Eclipse. These are some software like we are downloading games for games. We need to download a software for the code to write a code. We need to download a laptop or computer. After downloading these software, we are writing our code on them. And we are showing them to us that what is our actual result. Now, we have already made two videos. We are going to download a VS Code in English and Hindi. This is the first video in which you will be getting to see in the second index in the C++. We have downloaded it and shown you the components of the C++. We don't need to download all of them. We just need to download the Java Development Kit with the Visual Studio Code. Now, whether you are working on Windows or Mac, or you are doing two things to download. You can refer to these two videos. Along with that, if you want to download IntelliJay, then we have already made a video about the Java OneShot. If you go to the one-shot, you will get a complete installation process of how to download Java Development Kit and how to download IntelliJay. Along with that, we also show you that as soon as you go to your Chrome, then all the browsers that you use, you have to search for the Java Development Kit. And in this way, the first link of the Oracle will be available. You will go to that. So, you will get different formats to download. If you are working on Linux, you can download it from them. If you are working on Windows, then you can download the Java Development Kit from your system. And if you are working on Mac, then this is your link. So, you download the Java Development Kit with the same download, and download it with the same editor. Another option is that you get the entire Java developer pack. So, what Microsoft did? We have got some extensions with Visual Studio Code. We have got the Java Development Kit. You will get all the things you will download in one link. So, let's search for them. Visual Studio Code Installer Pack Java. So, the first link will be the Java Visual Studio Code. We have to scroll a little bit inside it. And installing the coding pack for Java Windows, if you use Windows, or installing the coding pack for Java Mac OS, if you use Mac, then you can set the code in your system and write the code we will write on the same editor. Now, if we look at the code editor, then we will see how we will see the visual studio Code in a new file. So, you can create a new file. Now, we will write in this file the first Java Code. Now, before writing the code, we will talk about the classes of the beginning. The code we are writing, if you are looking at the first time in the coding, then you can not get a little worried about it. But, we do not want to listen to it. We want to understand things. We want to try to understand it. Like, if we learn French, then we will get a lot of different things and we will not understand it. But after a little while, we will understand the things. So, we will have to see the faith on the code that we will have to see. When we will see the code, then we will understand the meaning of things. So, we will write the code in the first class. We will write the code in the first class. We will not understand anything. We will understand everything. So, we need to understand the things. First of all, in the Java Code, we will write a class. So, we will take the name of the class first. The class we have given the name of the class. Then, we will create a public static void main name function, which will be the string argument. So, in some way, the Java code is the same template. In which you define a class. And you define a function. Now, what is the function of a class? We will understand it later. But now, let us assume that whenever the Java code is written, we have to do this. And what will the file be doing? The file that you have given the name of the class within the Java will be the same name of your Java file. The first class we have given the name of the class, we will save our Java file as firstclass.java. So, the Java file that we save in the Java file, is saved from the name of the dot Java. Like, in the 11-12th class, or whenever we were studying computer science in school, we would save the text file from the dot TXT name. So, all the files we save from the dot Java file, we have saved it. So, in this way, the color coding has come to our text editor, where you will see some different colors. You will know the time that, why different colors are different in different worlds. Now, we have understood that this is something template to write your Java code. Now, the first thing that we have to write is the first code, usually, all the programming languages in the code, they are the hello world, which is used for the first time in which you are saying hello to your programming language. So, let us write it. System.out.println. Hello world. We have saved it. Now, we will run this code. After running, you will know that, what happens with the actual code? What does the Java code mean? We saved this line in our file, now, click on the right and run, and click on the right and run. So, for us, something like print will be printed. Hello world. Now, how can we understand this? As we see, many of the coders write a lot of code. And then, what is the output? We see a website. Similarly, the Java code we have written here, because of this, we have started to see this hello world on our screen. So, this is something, which is in the coding, which can show you anything on the screen of the code. Now, we are going to show you the output on the screen. Apart from this, you can get any data from the code of the user, which we call input. In the input output, we will be understanding in the next classes. Now, we have understood that, we run some Java code in this way, and we show an output. Now, let us understand, how do Java code actually run? For the Java code, the code that is used in our code is used in two steps. The first step is compilation of the code, and the second step is execution. Now, this theory is a little important, because this theory will never be asked in your placement interview. Or, if you read the Java in your college, then you will be in the exam. Now, the Java development kit we have downloaded, which is called JDE, which is the name of the JDE component, which we call Java runtime environment. With the JRE, there are many development tools available in it. And the JRE is also more component inside, which we call JVM, JVM means Java virtual machine. So, Java virtual machine, JRE and JDE, are formed in one level, they are stored in one level, and our entire Java code is run. Now, if we understand both the stages, then what happens in the compilation stage? The code we write, we call it source code. We save the source code from the Java, and this entire code goes to a compiler. This compiler is inside the JDK, and this compiler has all the source code, and this compiler is converted to source code, in the byte code, which is extension of dot class. And this byte code can run in any operating system. As long as the operating system is in the Java runtime environment, if you have written the code within Linux, Windows, Mac, and so on, you can convert the code into a byte code, and run it on any system. You can't do this with C++, that's why Java is called a portable language, because you can convert the apps that are created in this, and run it on any system. So, this is the first stage covered, which was the compilation stage. Now, if we talk about the second stage, which is the execution stage, so what happens in the execution stage? This byte code was with us. Now, Java Virtual Machine takes this byte code, and converts it into native code. native code means, the code that came into the machine, we just talked about, the lowest level code that comes into the machine comes into the 0 and 1. So, native code is the same code that comes into the machine. Now, when the byte code is converted into native code, so whether your machine is Windows or Mac, now, Java code will come into the machine. Similarly, if you were to print a Hello World, then your machine is converted into native code, and then your system will look like a Hello World. Now, if we talk about the components of our code, the first component of this is function. Functions or methods are part of the code, which we perform something to perform. If we were to add two numbers, then the whole code of the whole is written in a function. If we were to print a Hello World, then all the codes we wrote in a function, and what was the function? The function was the void main name, where the function name was main, and the return type was void, void, empty, this function did not return anything. It was only for us, to print a Hello World. So, the code we write in Java is written in the functions. And we write the functions in the class. So, the class is a big entity, which can come in many functions. How do we explain the class? As our big kitchen is in the house, there are many small doors, which have some storage inside. As the kitchen has a single door, a single door is a door is a door is a door. Similarly, in Java, the class is in the same, which has small functions. There is something in one function, there is something else in the other function. In Java, the main name function, is the first part of the code of the entire code, which is executed. So, in Java, the first thing in the main function, first of all, it will be executed, then all the codes of the code will be executed, and then it will be executed. So, today in the class, we have tried many things, like what is the code, what is the coding? How do we understand the machine, and how do we actually write our Java code? I hope that you will download the code editor or visual studio code, or whatever editor you like, with the help of Java, we will download the kit, so that we can write the code with the help of the classes in the next class, so that we can see that we are not having any problems, or we are able to learn all the things, because in the coding, it is more important to practice, so, the more we practice, the more we understand the code, and we will understand that. Today, we will meet in this next video, till then keep learning and keep practicing."
+}

@@ -1,0 +1,14 @@
+Based on the provided video subtitle chunks, I'd like to help clarify your question about "loops in Java" and its types.
+
+**Video Number:** Since the question is related to both videos 4 and 10, we'll focus on video 4 first. According to the chunks:
+
+- In Video 4: Loops in Java (Lecture 4), the topic of loops starts at 22.88 seconds and ends at 26.4 seconds.
+- The text at this time says, "Today we are studying three types of loops in Java."
+
+**What is being taught:** From 22.88 to 26.4 seconds, a brief introduction about the study of three types of loops in Java.
+
+The question "what are loops in java and what are its type?" seems to be partially covered in both video 4 and 10, but video 4 provides an initial overview before diving into specifics.
+
+To gain more insight or learn about the different types of loops (like for, while, and do-while) as well as understanding how they're used in Java, I recommend checking out Video 4: Loops in Java (Lecture 4). It starts at timestamp 22.88 seconds.
+
+If you'd like to explore more or have related questions about time complexity and space complexity which was discussed in video 10, let me know!

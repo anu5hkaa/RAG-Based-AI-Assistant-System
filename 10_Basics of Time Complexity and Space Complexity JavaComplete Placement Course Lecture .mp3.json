@@ -1,0 +1,3127 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Hi everyone and welcome to the Java placement course.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 4.0,
+            "end": 8.0,
+            "text": " Today's lecture will be about time and space complexity.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 8.0,
+            "end": 12.0,
+            "text": " Before we had an exercise that was given in the last 10 questions,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 12.0,
+            "end": 14.0,
+            "text": " we will be getting all the solutions.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 14.0,
+            "end": 17.0,
+            "text": " We will not be coding in this lecture.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 17.0,
+            "end": 20.0,
+            "text": " We will be learning that for our code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 20.0,
+            "end": 22.0,
+            "text": " we have written all the codes.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 22.0,
+            "end": 26.0,
+            "text": " For that we will calculate time and space complexity.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 26.0,
+            "end": 29.0,
+            "text": " Now, what happens if time and space complexity is done?",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 29.0,
+            "end": 32.0,
+            "text": " We will be sitting at home and running the app on the phone.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " So, we are more than that,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 34.0,
+            "end": 38.0,
+            "text": " we are getting a memory, space complexity in our phone.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 38.0,
+            "end": 43.0,
+            "text": " So, we are getting a memory, space complexity in our phone.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 43.0,
+            "end": 46.0,
+            "text": " We are getting stored in the less space.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 46.0,
+            "end": 50.0,
+            "text": " Along with that, we are not getting time to load the app.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 50.0,
+            "end": 51.0,
+            "text": " We are getting fast.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 51.0,
+            "end": 55.0,
+            "text": " So, in a way, we can say that whatever is related to coding,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 55.0,
+            "end": 58.0,
+            "text": " the code or the output of the code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " like an app, a website,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 60.0,
+            "end": 65.0,
+            "text": " it will be as good as the amount of space and as soon as it works.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 65.0,
+            "end": 68.0,
+            "text": " So, space and time is very important.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " Whenever we are writing a program,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " whenever we are writing a code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 72.0,
+            "end": 75.0,
+            "text": " because our final result should be product,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 75.0,
+            "end": 79.0,
+            "text": " it is so efficient that we can work as soon as possible,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " that means, we can get less time and space.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 82.0,
+            "end": 86.0,
+            "text": " In this lecture, we are learning how to get the time",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " for our code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 88.0,
+            "end": 92.0,
+            "text": " and how to get the space or memory,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 92.0,
+            "end": 97.0,
+            "text": " which we get to get the time to occupy in a computer,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 97.0,
+            "end": 98.0,
+            "text": " in a machine.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " Now, let's talk about the time complexity.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 101.0,
+            "end": 103.0,
+            "text": " Now, in simple language,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 103.0,
+            "end": 105.0,
+            "text": " the time complexity is what happens,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 105.0,
+            "end": 110.0,
+            "text": " it is the relation between input size and running time or operations.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " Now, let's take a simple code example.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 113.0,
+            "end": 116.0,
+            "text": " A simple code is in which we have written the main function,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 116.0,
+            "end": 119.0,
+            "text": " the main function is written in the print statement,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 119.0,
+            "end": 121.0,
+            "text": " which we have typed in,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 121.0,
+            "end": 123.0,
+            "text": " now, the program is in this,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " it is a single operation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 125.0,
+            "end": 129.0,
+            "text": " you can say that it is a very less time-like",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 129.0,
+            "end": 131.0,
+            "text": " in the code of a computer,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " so, in the same unit time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 133.0,
+            "end": 135.0,
+            "text": " it will look like this in this code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 135.0,
+            "end": 137.0,
+            "text": " Now, if we take another program example,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 137.0,
+            "end": 139.0,
+            "text": " which is in the next function,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 139.0,
+            "end": 142.0,
+            "text": " this time, print statements are two.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 142.0,
+            "end": 146.0,
+            "text": " So, here, the operations that have been doubled,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 146.0,
+            "end": 149.0,
+            "text": " so, two times into one operation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 149.0,
+            "end": 151.0,
+            "text": " our total time will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 151.0,
+            "end": 154.0,
+            "text": " and that time will be in running the code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 154.0,
+            "end": 157.0,
+            "text": " Now, these small, small, small times of operations,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " they are almost negligible,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 159.0,
+            "end": 160.0,
+            "text": " they do not have any difference,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 160.0,
+            "end": 162.0,
+            "text": " they are very less time-like,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 162.0,
+            "end": 163.0,
+            "text": " they are executed.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " But, it starts to study the difference,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 165.0,
+            "end": 169.0,
+            "text": " when these operations are very much being done,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 169.0,
+            "end": 171.0,
+            "text": " and these operations usually,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 171.0,
+            "end": 173.0,
+            "text": " we will do coding,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 173.0,
+            "end": 176.0,
+            "text": " they will depend on our input size.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 176.0,
+            "end": 178.0,
+            "text": " Now, what is the input size?",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 178.0,
+            "end": 181.0,
+            "text": " We take n input from the scanner class,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 181.0,
+            "end": 183.0,
+            "text": " or m input.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 183.0,
+            "end": 184.0,
+            "text": " On its basis,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 184.0,
+            "end": 188.0,
+            "text": " if we define any operation within the code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 188.0,
+            "end": 191.0,
+            "text": " then, our input size will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " and the size of the entire code will be so big,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " now, we will understand this thing,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 196.0,
+            "end": 198.0,
+            "text": " it will be a little bit difficult,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " so, let us understand this once more,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 200.0,
+            "end": 203.0,
+            "text": " take the input of the scanner class,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " and we have created an input,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 205.0,
+            "end": 206.0,
+            "text": " n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 206.0,
+            "end": 208.0,
+            "text": " now, as soon as we have created this variable,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 208.0,
+            "end": 209.0,
+            "text": " we have created an input,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 209.0,
+            "end": 211.0,
+            "text": " then, we have created a for loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 211.0,
+            "end": 213.0,
+            "text": " and what is this for loop?",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 213.0,
+            "end": 215.0,
+            "text": " n is equal to 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 215.0,
+            "end": 218.0,
+            "text": " and print is given,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " hello,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " we have created a code like this,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 222.0,
+            "end": 224.0,
+            "text": " now, we will see in this code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 224.0,
+            "end": 226.0,
+            "text": " that it seems to be in the print curve,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 226.0,
+            "end": 229.0,
+            "text": " but we have created this operation for so many times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " we have created this for n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " n times, that is, if we run this loop again,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 234.0,
+            "end": 236.0,
+            "text": " then the print will also be n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 236.0,
+            "end": 240.0,
+            "text": " and the print operation we have repeated for n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 240.0,
+            "end": 242.0,
+            "text": " so, the size of the entire code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 242.0,
+            "end": 244.0,
+            "text": " this n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " which we have created,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " in the code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 248.0,
+            "end": 250.0,
+            "text": " we will have a lot of time in the code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 250.0,
+            "end": 252.0,
+            "text": " that is why,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 252.0,
+            "end": 254.0,
+            "text": " the time of the code is taking,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 254.0,
+            "end": 256.0,
+            "text": " it depends on the input size,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 256.0,
+            "end": 258.0,
+            "text": " so, in a time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 258.0,
+            "end": 260.0,
+            "text": " we are going to see the relation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 260.0,
+            "end": 262.0,
+            "text": " how our input size,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 262.0,
+            "end": 264.0,
+            "text": " our running time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 264.0,
+            "end": 266.0,
+            "text": " or operation is related to it,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 266.0,
+            "end": 269.0,
+            "text": " if we double the input code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " then how many times our running time will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 271.0,
+            "end": 274.0,
+            "text": " then how many times our running time will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 274.0,
+            "end": 276.0,
+            "text": " then,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " then, the relation between it,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " is also possible,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " that is, if we have increased the input by 10,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " then our running time will also increase by 10,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " this can also be quadratic,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 286.0,
+            "end": 288.0,
+            "text": " quadratic means,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 288.0,
+            "end": 291.0,
+            "text": " if our input size is 2 times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 291.0,
+            "end": 293.0,
+            "text": " then,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 293.0,
+            "end": 296.0,
+            "text": " the operation will be 4 times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 296.0,
+            "end": 298.0,
+            "text": " this can also be cubic,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " if the running time is 2 times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " then, our operations will be 8 times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 302.0,
+            "end": 305.0,
+            "text": " this can also be a login relation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " this square root relation can also be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " it can also be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 309.0,
+            "end": 311.0,
+            "text": " multiple relations can be made,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 311.0,
+            "end": 313.0,
+            "text": " and our code will be as good,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " as much as our relation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 315.0,
+            "end": 317.0,
+            "text": " as much as our operations will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " as much as our operations will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " with our input size,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " now, with some examples,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " we will see the time complexity of some codes,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " and we will understand very clearly,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " that we are talking about time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " what are you talking about?",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " First, let's take an example,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " in this example,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 335.0,
+            "end": 337.0,
+            "text": " we have input in the main function,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " we have input in the main function,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " then, a loop is going to run,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " so, in a way, we can say that,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " if our input is n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " then, the total number of operations will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " our running time will also be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " that too, n will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 353.0,
+            "end": 357.0,
+            "text": " so, in a way, our time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " time complexity is nothing but the number of operations,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " which we are doing in the code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " or in the running time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " which is proportional to our input,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 367.0,
+            "end": 369.0,
+            "text": " i.e. as you will increase,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 369.0,
+            "end": 371.0,
+            "text": " our operations will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 371.0,
+            "end": 373.0,
+            "text": " our time complexity will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 373.0,
+            "end": 375.0,
+            "text": " so, in some way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " we can say that,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 377.0,
+            "end": 379.0,
+            "text": " this relation is a linear relation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " in some way, we can say,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 381.0,
+            "end": 383.0,
+            "text": " in some way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " first of all, best case time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 385.0,
+            "end": 387.0,
+            "text": " then average case time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 387.0,
+            "end": 389.0,
+            "text": " and then worst case time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " now, we are clearly saying,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " that best case time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " is that, that minimum time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " in which best case, in our code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " then our code will run,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 399.0,
+            "end": 401.0,
+            "text": " average time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 401.0,
+            "end": 403.0,
+            "text": " in which we will do the motomotig,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 403.0,
+            "end": 405.0,
+            "text": " then our code will run in such a high average time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 405.0,
+            "end": 407.0,
+            "text": " and worst time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " i.e. something is happening,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " our code will not exceed this time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " let us take a look at this,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " we have numbers,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 415.0,
+            "end": 417.0,
+            "text": " 1, 2, 3, 4, 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 417.0,
+            "end": 419.0,
+            "text": " and we have to find,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 419.0,
+            "end": 421.0,
+            "text": " for the first order,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 421.0,
+            "end": 423.0,
+            "text": " we have to find,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 423.0,
+            "end": 425.0,
+            "text": " for the first order,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 425.0,
+            "end": 427.0,
+            "text": " that is, 1, 2, 3, 4, 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 427.0,
+            "end": 429.0,
+            "text": " and we have to search for,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 429.0,
+            "end": 431.0,
+            "text": " now, if we search for,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 431.0,
+            "end": 433.0,
+            "text": " first position,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 433.0,
+            "end": 435.0,
+            "text": " that is, position is equal to, 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 435.0,
+            "end": 437.0,
+            "text": " we have found,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 437.0,
+            "end": 439.0,
+            "text": " and after that, we do not need to search for,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 439.0,
+            "end": 441.0,
+            "text": " so, how many operations,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 441.0,
+            "end": 443.0,
+            "text": " we have,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 443.0,
+            "end": 445.0,
+            "text": " 1 unit of time,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 445.0,
+            "end": 447.0,
+            "text": " so, this is our best case scenario,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 447.0,
+            "end": 449.0,
+            "text": " the best case scenario,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 449.0,
+            "end": 451.0,
+            "text": " the time complexity will come out in our best case scenario,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 451.0,
+            "end": 453.0,
+            "text": " that is, the equal of one operation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 453.0,
+            "end": 455.0,
+            "text": " now, if we consider,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 455.0,
+            "end": 457.0,
+            "text": " the order we have given,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 457.0,
+            "end": 459.0,
+            "text": " is a random order,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 459.0,
+            "end": 461.0,
+            "text": " 3, 4, 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 461.0,
+            "end": 463.0,
+            "text": " and 2, 3, 4, 1, 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 463.0,
+            "end": 465.0,
+            "text": " then, we will give,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 465.0,
+            "end": 467.0,
+            "text": " a random order,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 467.0,
+            "end": 469.0,
+            "text": " if, we are coming in,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 469.0,
+            "end": 471.0,
+            "text": " then, if we talk about it,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 471.0,
+            "end": 473.0,
+            "text": " all the possible cases,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 473.0,
+            "end": 475.0,
+            "text": " we will take the time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 475.0,
+            "end": 477.0,
+            "text": " and divide it with n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 477.0,
+            "end": 479.0,
+            "text": " then, the average time complexity will come out,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 479.0,
+            "end": 481.0,
+            "text": " in the best case, we have one operation,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 481.0,
+            "end": 483.0,
+            "text": " it was looking like,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " the second best case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 485.0,
+            "end": 487.0,
+            "text": " that will be found in the second position,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 487.0,
+            "end": 489.0,
+            "text": " then, on the third, on the fourth,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 489.0,
+            "end": 491.0,
+            "text": " and finally, on the fifth,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " divided by 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 493.0,
+            "end": 495.0,
+            "text": " now, we will generalize this thing,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 495.0,
+            "end": 497.0,
+            "text": " so, this will be 1 plus 2,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 497.0,
+            "end": 499.0,
+            "text": " until n is not going to go,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 499.0,
+            "end": 501.0,
+            "text": " divided by n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 501.0,
+            "end": 503.0,
+            "text": " where it will come,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 503.0,
+            "end": 505.0,
+            "text": " 1 plus 2,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 505.0,
+            "end": 507.0,
+            "text": " divided by n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 507.0,
+            "end": 509.0,
+            "text": " so, this is our r,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 509.0,
+            "end": 511.0,
+            "text": " n plus 1 by 2,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 511.0,
+            "end": 513.0,
+            "text": " so, this time will be found in our average case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 513.0,
+            "end": 515.0,
+            "text": " so, this way, the relation will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 515.0,
+            "end": 517.0,
+            "text": " if we take a look at it,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 517.0,
+            "end": 519.0,
+            "text": " then, a linear relation will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 519.0,
+            "end": 521.0,
+            "text": " in a way, because,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 521.0,
+            "end": 523.0,
+            "text": " it is directly proportional to n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 523.0,
+            "end": 525.0,
+            "text": " in this condition,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 525.0,
+            "end": 527.0,
+            "text": " now, if we talk about the third case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 527.0,
+            "end": 529.0,
+            "text": " which is the worst case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 529.0,
+            "end": 531.0,
+            "text": " so, the number of cases in the worst case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 531.0,
+            "end": 533.0,
+            "text": " 1, 4, 3, 2, 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 533.0,
+            "end": 535.0,
+            "text": " or, in front of the numbers,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 535.0,
+            "end": 537.0,
+            "text": " we can also have some arrangement,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 537.0,
+            "end": 539.0,
+            "text": " the one that is in the last,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 539.0,
+            "end": 541.0,
+            "text": " now, to reach the 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 541.0,
+            "end": 543.0,
+            "text": " we will always have to take n steps,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 543.0,
+            "end": 545.0,
+            "text": " and here, n is equal to 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 545.0,
+            "end": 547.0,
+            "text": " now, as soon as this 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 547.0,
+            "end": 549.0,
+            "text": " 10 to the power 5 will be,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 549.0,
+            "end": 551.0,
+            "text": " or, if we have 1 lakh numbers,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 551.0,
+            "end": 553.0,
+            "text": " then, we have to take 1 lakh steps,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 553.0,
+            "end": 555.0,
+            "text": " so, this way, the way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 555.0,
+            "end": 557.0,
+            "text": " here, the directly proportional,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " will come, with n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 559.0,
+            "end": 561.0,
+            "text": " in our worst case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 561.0,
+            "end": 563.0,
+            "text": " in the worst case, we will",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 563.0,
+            "end": 565.0,
+            "text": " directly proportional, with our",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 565.0,
+            "end": 567.0,
+            "text": " input size n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 567.0,
+            "end": 569.0,
+            "text": " in this example, we are doing the same,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 569.0,
+            "end": 571.0,
+            "text": " in the average case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 571.0,
+            "end": 573.0,
+            "text": " and, for the best case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 573.0,
+            "end": 575.0,
+            "text": " now, to represent this thing,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 575.0,
+            "end": 577.0,
+            "text": " there is a fixed way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 577.0,
+            "end": 579.0,
+            "text": " in the coding,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 579.0,
+            "end": 581.0,
+            "text": " what is fixed?",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 581.0,
+            "end": 583.0,
+            "text": " For the best case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 583.0,
+            "end": 585.0,
+            "text": " you write, omega of 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 585.0,
+            "end": 587.0,
+            "text": " we call this symbol,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 587.0,
+            "end": 589.0,
+            "text": " we call this,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 589.0,
+            "end": 591.0,
+            "text": " theta of,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 591.0,
+            "end": 593.0,
+            "text": " since n was, n plus 1 by 2,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 593.0,
+            "end": 595.0,
+            "text": " and, first, we write,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 595.0,
+            "end": 599.0,
+            "text": " big O of n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 599.0,
+            "end": 601.0,
+            "text": " here, the best case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 601.0,
+            "end": 603.0,
+            "text": " time complexity, omega of 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 603.0,
+            "end": 605.0,
+            "text": " average case, theta of n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 605.0,
+            "end": 607.0,
+            "text": " which, n plus 1 by 2,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 607.0,
+            "end": 609.0,
+            "text": " is ultimately n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 609.0,
+            "end": 611.0,
+            "text": " and, in the worst case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 611.0,
+            "end": 613.0,
+            "text": " big O of n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 613.0,
+            "end": 615.0,
+            "text": " whenever, in the time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 615.0,
+            "end": 617.0,
+            "text": " or, in the time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 617.0,
+            "end": 619.0,
+            "text": " we will always take,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 619.0,
+            "end": 621.0,
+            "text": " worst case time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 621.0,
+            "end": 623.0,
+            "text": " so, whenever, we talk about time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 623.0,
+            "end": 625.0,
+            "text": " we will talk about big O of n,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 625.0,
+            "end": 627.0,
+            "text": " in the worst case, because,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 627.0,
+            "end": 629.0,
+            "text": " we want to take,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 629.0,
+            "end": 631.0,
+            "text": " the worst case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 631.0,
+            "end": 633.0,
+            "text": " if we take,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 633.0,
+            "end": 635.0,
+            "text": " we can sort out our",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 635.0,
+            "end": 637.0,
+            "text": " things,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 637.0,
+            "end": 639.0,
+            "text": " in the average case, and,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 639.0,
+            "end": 641.0,
+            "text": " the best case, we can take,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 641.0,
+            "end": 643.0,
+            "text": " but, we do not consider it,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " this time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 645.0,
+            "end": 647.0,
+            "text": " and, these symbols,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 647.0,
+            "end": 649.0,
+            "text": " are not, but, the best time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 649.0,
+            "end": 651.0,
+            "text": " is a way to represent,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 651.0,
+            "end": 653.0,
+            "text": " now, in the time complexity,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 653.0,
+            "end": 655.0,
+            "text": " one more, the theorem,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 655.0,
+            "end": 657.0,
+            "text": " we call it, master's theorem,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 657.0,
+            "end": 659.0,
+            "text": " we will also study about,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 659.0,
+            "end": 661.0,
+            "text": " master's theorem in the classes,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 661.0,
+            "end": 663.0,
+            "text": " this class, is not more complex,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 663.0,
+            "end": 665.0,
+            "text": " so, we will not be here,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 665.0,
+            "end": 667.0,
+            "text": " if we take another example,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 667.0,
+            "end": 669.0,
+            "text": " we will make a base,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 669.0,
+            "end": 671.0,
+            "text": " in this example,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 671.0,
+            "end": 673.0,
+            "text": " and, in the form,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 673.0,
+            "end": 675.0,
+            "text": " there is another form,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 675.0,
+            "end": 677.0,
+            "text": " we have studied about this concept,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 677.0,
+            "end": 679.0,
+            "text": " we will talk about,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 679.0,
+            "end": 681.0,
+            "text": " the print statement,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 681.0,
+            "end": 683.0,
+            "text": " how many times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 683.0,
+            "end": 685.0,
+            "text": " how many operations,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 685.0,
+            "end": 687.0,
+            "text": " in the code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 687.0,
+            "end": 689.0,
+            "text": " we will see,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 689.0,
+            "end": 691.0,
+            "text": " we will analyze,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 691.0,
+            "end": 693.0,
+            "text": " if, we take,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 693.0,
+            "end": 695.0,
+            "text": " the outer loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 695.0,
+            "end": 697.0,
+            "text": " i is equal to 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 697.0,
+            "end": 699.0,
+            "text": " i is equal to 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 699.0,
+            "end": 701.0,
+            "text": " i is equal to 3,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 701.0,
+            "end": 703.0,
+            "text": " i is equal to 4,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 703.0,
+            "end": 705.0,
+            "text": " and i is equal to 5,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 705.0,
+            "end": 707.0,
+            "text": " and, as soon as,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 707.0,
+            "end": 709.0,
+            "text": " i value is 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 709.0,
+            "end": 711.0,
+            "text": " in the first case,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 711.0,
+            "end": 713.0,
+            "text": " in the loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 713.0,
+            "end": 715.0,
+            "text": " or, if we say,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 715.0,
+            "end": 717.0,
+            "text": " we will do,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 717.0,
+            "end": 719.0,
+            "text": " then, n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 719.0,
+            "end": 721.0,
+            "text": " there, the value of j,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 721.0,
+            "end": 723.0,
+            "text": " will be 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 723.0,
+            "end": 725.0,
+            "text": " then, 1, 2, 3, 4,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 725.0,
+            "end": 727.0,
+            "text": " and, 4,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 727.0,
+            "end": 729.0,
+            "text": " i is equal to 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 729.0,
+            "end": 731.0,
+            "text": " for loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 731.0,
+            "end": 733.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 733.0,
+            "end": 735.0,
+            "text": " j is equal to 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 735.0,
+            "end": 737.0,
+            "text": " j value will be 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 737.0,
+            "end": 739.0,
+            "text": " then, 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 739.0,
+            "end": 741.0,
+            "text": " 2, 3, 4,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 741.0,
+            "end": 743.0,
+            "text": " in this way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " i is equal to 1,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 745.0,
+            "end": 747.0,
+            "text": " in the loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 747.0,
+            "end": 749.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 749.0,
+            "end": 751.0,
+            "text": " in this way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 751.0,
+            "end": 753.0,
+            "text": " all i values,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 753.0,
+            "end": 755.0,
+            "text": " in the loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 755.0,
+            "end": 756.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 756.0,
+            "end": 758.0,
+            "text": " and, all i values,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 758.0,
+            "end": 760.0,
+            "text": " in every outer loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 760.0,
+            "end": 762.0,
+            "text": " in the loop,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 762.0,
+            "end": 764.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 764.0,
+            "end": 766.0,
+            "text": " in total,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 766.0,
+            "end": 768.0,
+            "text": " all i values,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 768.0,
+            "end": 770.0,
+            "text": " in total,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 770.0,
+            "end": 772.0,
+            "text": " all i values,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 772.0,
+            "end": 774.0,
+            "text": " in total,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 774.0,
+            "end": 776.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 776.0,
+            "end": 778.0,
+            "text": " in total,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 778.0,
+            "end": 780.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 780.0,
+            "end": 782.0,
+            "text": " in total,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 782.0,
+            "end": 784.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 784.0,
+            "end": 786.0,
+            "text": " n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 786.0,
+            "end": 788.0,
+            "text": " we can never go to any code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 788.0,
+            "end": 790.0,
+            "text": " If we talk about,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 790.0,
+            "end": 792.0,
+            "text": " the code that we have got,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 792.0,
+            "end": 794.0,
+            "text": " we have only input n in it.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 794.0,
+            "end": 796.0,
+            "text": " Now, the outer loop is going",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 796.0,
+            "end": 798.0,
+            "text": " to n times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 798.0,
+            "end": 800.0,
+            "text": " and, the inner loop is going to m times,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 800.0,
+            "end": 802.0,
+            "text": " Now, let's do a little dry here.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 802.0,
+            "end": 804.0,
+            "text": " So, i is equal to 0,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 804.0,
+            "end": 806.0,
+            "text": " for j value,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 806.0,
+            "end": 808.0,
+            "text": " 1, 2, and,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 808.0,
+            "end": 810.0,
+            "text": " in this way,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 810.0,
+            "end": 812.0,
+            "text": " m will be given to m,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 812.0,
+            "end": 820.0,
+            "text": " will be equal to 2 and m. I equal to 3 also j value 0 to m will be equal to 0 and same",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 820.0,
+            "end": 830.0,
+            "text": " will happen until our i n is equal to 0. So our outer loop is running, it is running",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 830.0,
+            "end": 836.0,
+            "text": " n times and inner loop is performing every single time, how many operations every single time.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 836.0,
+            "end": 843.0,
+            "text": " So this time the time complexity of this code will be in the worst case, how many",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 843.0,
+            "end": 851.0,
+            "text": " operations can be performed. It can be n into m. So how many times we will do this code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 851.0,
+            "end": 859.0,
+            "text": " how many is it is big O of n into m. So in some way we will represent time complexity.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 859.0,
+            "end": 866.0,
+            "text": " Let us take another example, we are taking n and m input, but here we are not talking about nested loops.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 866.0,
+            "end": 875.0,
+            "text": " Here we have written two separate loops. The first loop is a for loop, which runs, i is equal to 0",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 875.0,
+            "end": 883.0,
+            "text": " to n. The second also runs a for loop, which is equal to 0 to m. Now talk about how many",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 883.0,
+            "end": 890.0,
+            "text": " operations are performing. So in this for loop, the first for loop is performing, n operation means",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 890.0,
+            "end": 897.0,
+            "text": " it is looking like n time. In the second for loop, m operation is looking like m time.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 897.0,
+            "end": 904.0,
+            "text": " Now after for loop, after loop, here our total number of operations will be added.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 904.0,
+            "end": 911.0,
+            "text": " Last time nested loop is multiplying, so here first n times will be operant, then n times",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 911.0,
+            "end": 921.0,
+            "text": " complexity will be big O of n plus m. Now when we take n and m into 2 and 3, then we will not have to",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 921.0,
+            "end": 929.0,
+            "text": " take time as much as possible. But if n value 10 to the power 6, and m value 3,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 929.0,
+            "end": 935.0,
+            "text": " then in that case we will see that our big O of time complexity will be n.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 935.0,
+            "end": 942.0,
+            "text": " Because n is so significant that m will be negligible in front of it and the final time complexity will be",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 942.0,
+            "end": 948.0,
+            "text": " coming out. It always depends on the size of the big input. So time complexity is the effect.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 948.0,
+            "end": 953.0,
+            "text": " We do not get to see so much on the small input sizes, we will get to see so much. When we",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 953.0,
+            "end": 959.0,
+            "text": " get the input size of the code, it will be exponential, it will be in a very big value.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 959.0,
+            "end": 963.96,
+            "text": " Now once we compare the three time complexity so that we can compare the",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 963.96,
+            "end": 969.96,
+            "text": " concept code better, the concept code runs faster and runs faster than the concept code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 969.96,
+            "end": 977.0,
+            "text": " One code is the time complexity given by big O of n, one by n square, one by n cube.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 977.0,
+            "end": 981.0,
+            "text": " Now we take the small input, that is n is equal to 1 if we analyze it.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 981.0,
+            "end": 986.0,
+            "text": " So we can understand that big O of n means that it will be a cooperation performed or",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 986.0,
+            "end": 993.0,
+            "text": " a unit time. For n square, it will be a cooperation or a unit time. For n cube, it will be a unit",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 993.0,
+            "end": 999.0,
+            "text": " time. Now if we increase n and do n is equal to 2. So n is equal to 2 in the case where big O of n",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 999.0,
+            "end": 1004.0,
+            "text": " was looking at. There are two operations performed, two units of time. But n square",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1004.0,
+            "end": 1010.0,
+            "text": " case has now been four operations, four unit time, n cube case has eight unit time.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1010.0,
+            "end": 1017.0,
+            "text": " Same if n is equal to 3 case, so in big O of n value, we will find three unit time n square",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1017.0,
+            "end": 1024.0,
+            "text": " and n cube is 27 units of time. And as soon as we increase n, we will do 10 to the power 5.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1024.0,
+            "end": 1031.0,
+            "text": " So here it will be like 10 to the power 5 times, here it will be like 10 to the power 10 times and here it will be like 10 to the power 30 times.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1031.0,
+            "end": 1036.0,
+            "text": " Now the difference between these times is, this is a very big difference.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1036.0,
+            "end": 1046.0,
+            "text": " And we are clearly aware that this time is very less and this time is much more. So here the best code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1046.0,
+            "end": 1053.0,
+            "text": " the time is less, this will be the second number and third number will be our n cube.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1053.0,
+            "end": 1057.0,
+            "text": " So ahead we will be studying some data structures, some algorithms, some algorithms,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1057.0,
+            "end": 1063.0,
+            "text": " what we have to do is to optimize our time. So like dynamic programming,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1063.0,
+            "end": 1071.0,
+            "text": " we have to optimize our time complexity of code. So if you have to optimize your code,",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1071.0,
+            "end": 1080.0,
+            "text": " n to the power 4 times or your factorial, then it also optimize n square, n cube.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1080.0,
+            "end": 1088.0,
+            "text": " So it is very important to reduce the time of code so that our code is run as fast as possible.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1088.0,
+            "end": 1096.0,
+            "text": " Now we have talked about time complexity, but another important factor will be that how good our code is or how bad it is.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1096.0,
+            "end": 1103.0,
+            "text": " And that is our space complexity. A code's space complexity depends on how much code is taking place in memory.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1103.0,
+            "end": 1110.0,
+            "text": " Now how much code will take place in memory in memory depends on how many variables in memory are stored in the code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1110.0,
+            "end": 1121.0,
+            "text": " Now if we visualize our memory and visualize the code, then the first thing is that the scanner object is stored in the integer n.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1121.0,
+            "end": 1127.0,
+            "text": " Then the store will be stored in the memory.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1127.0,
+            "end": 1133.0,
+            "text": " In this case we are not storing anything in the memory. We will only store these three variables in the memory.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1133.0,
+            "end": 1142.0,
+            "text": " Now we will not store the input variable n size. We will not store any difference in the code in memory.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1142.0,
+            "end": 1150.0,
+            "text": " Because the n variable is stored once and the input size is not impacting anything in the terms of space.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1150.0,
+            "end": 1156.0,
+            "text": " Because of n, we will not store any new variables. That is why we increase the n size.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1156.0,
+            "end": 1165.0,
+            "text": " If we do exponential, 10 to the power 6, 10 to the power 10, then what is the space in our code for this particular code?",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1165.0,
+            "end": 1172.0,
+            "text": " Now we have taken that case, which will not depend on our input size.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1172.0,
+            "end": 1182.0,
+            "text": " Now we will talk about the new data structure that we call Arise.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1182.0,
+            "end": 1193.0,
+            "text": " Arise is based on basic definition that if you are making a lot of variables of one type, then you can make a list of variables in the form of a list.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1193.0,
+            "end": 1202.0,
+            "text": " If we want to store a number of variables in the form of X, Y, Z, A, B, C, then we will make a list of variables in the memory.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1202.0,
+            "end": 1212.0,
+            "text": " Or we will make a list of the variables in the form of a list of variables in the form of a list of variables in the form of a list of variables.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1213.0,
+            "end": 1219.0,
+            "text": " Usually we prefer to store a list of variables in order to provide an array of data types.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1219.0,
+            "end": 1226.0,
+            "text": " So we made an array from a method. Now let's assume that in 6 places we have to store 5 numbers of the 10 to the power.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1226.0,
+            "end": 1234.0,
+            "text": " So the size of the array will go to where the size will go to 10 to the power 5.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1234.0,
+            "end": 1240.0,
+            "text": " So this is the case in which our input size is increasing our memory storage.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1240.0,
+            "end": 1246.0,
+            "text": " So the number of variables we will increase the number of the variables we will store.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1246.0,
+            "end": 1250.0,
+            "text": " The number of the variables we will increase the number of the code in memory.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1250.0,
+            "end": 1256.0,
+            "text": " So this is the case in which our space complexity is heavily dependent on our input size.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1256.0,
+            "end": 1260.0,
+            "text": " Now how the space complexity depends on the arrays.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1260.0,
+            "end": 1263.0,
+            "text": " We will learn more extensively in the arrays lectures.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1263.0,
+            "end": 1270.0,
+            "text": " Now we just have to know that our input size affects our memory and not in any other cases.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1270.0,
+            "end": 1277.0,
+            "text": " In those cases we have to pay attention to that code so that we can use less memory so that our code is more efficient.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1277.0,
+            "end": 1282.0,
+            "text": " Because memory size does not affect our computer.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1282.0,
+            "end": 1287.0,
+            "text": " In order to read and write in memory we also have extra operations.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1287.0,
+            "end": 1293.0,
+            "text": " In hardware level we want to avoid the time which increases the time.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1293.0,
+            "end": 1299.0,
+            "text": " So I hope that we will be taking this video from today's point of view that the time is as low as our code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1299.0,
+            "end": 1303.0,
+            "text": " The space is as low as our code.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1303.0,
+            "end": 1306.0,
+            "text": " Now we have given you the notes of this video lecture.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1306.0,
+            "end": 1310.0,
+            "text": " There are some questions that you are solving.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        },
+        {
+            "number": "10",
+            "start": 1310.0,
+            "end": 1313.0,
+            "text": " I will see you in the next video till then keep learning and keep exploring.",
+            "title": "Basics of Time Complexity and Space Complexity JavaComplete Placement Course Lecture .mp3"
+        }
+    ],
+    "text": " Hi everyone and welcome to the Java placement course. Today's lecture will be about time and space complexity. Before we had an exercise that was given in the last 10 questions, we will be getting all the solutions. We will not be coding in this lecture. We will be learning that for our code, we have written all the codes. For that we will calculate time and space complexity. Now, what happens if time and space complexity is done? We will be sitting at home and running the app on the phone. So, we are more than that, we are getting a memory, space complexity in our phone. So, we are getting a memory, space complexity in our phone. We are getting stored in the less space. Along with that, we are not getting time to load the app. We are getting fast. So, in a way, we can say that whatever is related to coding, the code or the output of the code, like an app, a website, it will be as good as the amount of space and as soon as it works. So, space and time is very important. Whenever we are writing a program, whenever we are writing a code, because our final result should be product, it is so efficient that we can work as soon as possible, that means, we can get less time and space. In this lecture, we are learning how to get the time for our code, and how to get the space or memory, which we get to get the time to occupy in a computer, in a machine. Now, let's talk about the time complexity. Now, in simple language, the time complexity is what happens, it is the relation between input size and running time or operations. Now, let's take a simple code example. A simple code is in which we have written the main function, the main function is written in the print statement, which we have typed in, now, the program is in this, it is a single operation, you can say that it is a very less time-like in the code of a computer, so, in the same unit time, it will look like this in this code. Now, if we take another program example, which is in the next function, this time, print statements are two. So, here, the operations that have been doubled, so, two times into one operation, our total time will be, and that time will be in running the code. Now, these small, small, small times of operations, they are almost negligible, they do not have any difference, they are very less time-like, they are executed. But, it starts to study the difference, when these operations are very much being done, and these operations usually, we will do coding, they will depend on our input size. Now, what is the input size? We take n input from the scanner class, or m input. On its basis, if we define any operation within the code, then, our input size will be, and the size of the entire code will be so big, now, we will understand this thing, it will be a little bit difficult, so, let us understand this once more, take the input of the scanner class, and we have created an input, n, now, as soon as we have created this variable, we have created an input, then, we have created a for loop, and what is this for loop? n is equal to 0, and print is given, hello, we have created a code like this, now, we will see in this code, that it seems to be in the print curve, but we have created this operation for so many times, we have created this for n times, n times, that is, if we run this loop again, then the print will also be n times, and the print operation we have repeated for n times, so, the size of the entire code, this n, which we have created, in the code, we will have a lot of time in the code, that is why, the time of the code is taking, it depends on the input size, so, in a time complexity, we are going to see the relation, how our input size, our running time, or operation is related to it, if we double the input code, then how many times our running time will be, then how many times our running time will be, then, then, the relation between it, is also possible, that is, if we have increased the input by 10, then our running time will also increase by 10, this can also be quadratic, quadratic means, if our input size is 2 times, then, the operation will be 4 times, this can also be cubic, if the running time is 2 times, then, our operations will be 8 times, this can also be a login relation, this square root relation can also be, it can also be, multiple relations can be made, and our code will be as good, as much as our relation, as much as our operations will be, as much as our operations will be, with our input size, now, with some examples, we will see the time complexity of some codes, and we will understand very clearly, that we are talking about time complexity, what are you talking about? First, let's take an example, in this example, we have input in the main function, we have input in the main function, then, a loop is going to run, n times, so, in a way, we can say that, if our input is n, then, the total number of operations will be, our running time will also be, that too, n will be, so, in a way, our time complexity, time complexity is nothing but the number of operations, which we are doing in the code, or in the running time, which is proportional to our input, n, i.e. as you will increase, our operations will be, our time complexity will be, so, in some way, we can say that, this relation is a linear relation, in some way, we can say, in some way, first of all, best case time complexity, then average case time complexity, and then worst case time complexity, now, we are clearly saying, that best case time complexity, is that, that minimum time, in which best case, in our code, then our code will run, average time, in which we will do the motomotig, then our code will run in such a high average time, and worst time, i.e. something is happening, our code will not exceed this time, let us take a look at this, we have numbers, 1, 2, 3, 4, 5, and we have to find, for the first order, we have to find, for the first order, that is, 1, 2, 3, 4, 5, and we have to search for, now, if we search for, first position, that is, position is equal to, 1, we have found, and after that, we do not need to search for, so, how many operations, we have, 1 unit of time, so, this is our best case scenario, the best case scenario, the time complexity will come out in our best case scenario, that is, the equal of one operation, now, if we consider, the order we have given, is a random order, 3, 4, 5, and 2, 3, 4, 1, 5, then, we will give, a random order, if, we are coming in, then, if we talk about it, all the possible cases, we will take the time complexity, and divide it with n, then, the average time complexity will come out, in the best case, we have one operation, it was looking like, the second best case, that will be found in the second position, then, on the third, on the fourth, and finally, on the fifth, divided by 5, now, we will generalize this thing, so, this will be 1 plus 2, until n is not going to go, divided by n, where it will come, 1 plus 2, divided by n, so, this is our r, n plus 1 by 2, so, this time will be found in our average case, so, this way, the relation will be, if we take a look at it, then, a linear relation will be, in a way, because, it is directly proportional to n, in this condition, now, if we talk about the third case, which is the worst case, so, the number of cases in the worst case, 1, 4, 3, 2, 1, or, in front of the numbers, we can also have some arrangement, the one that is in the last, now, to reach the 1, we will always have to take n steps, and here, n is equal to 5, now, as soon as this 5, 10 to the power 5 will be, or, if we have 1 lakh numbers, then, we have to take 1 lakh steps, so, this way, the way, here, the directly proportional, will come, with n, in our worst case, in the worst case, we will directly proportional, with our input size n, in this example, we are doing the same, in the average case, and, for the best case, now, to represent this thing, there is a fixed way, in the coding, what is fixed? For the best case, you write, omega of 1, we call this symbol, we call this, theta of, since n was, n plus 1 by 2, and, first, we write, big O of n, here, the best case, time complexity, omega of 1, average case, theta of n, which, n plus 1 by 2, is ultimately n, and, in the worst case, big O of n, whenever, in the time complexity, or, in the time complexity, we will always take, worst case time complexity, so, whenever, we talk about time complexity, we will talk about big O of n, in the worst case, because, we want to take, the worst case, if we take, we can sort out our things, in the average case, and, the best case, we can take, but, we do not consider it, this time complexity, and, these symbols, are not, but, the best time complexity, is a way to represent, now, in the time complexity, one more, the theorem, we call it, master's theorem, we will also study about, master's theorem in the classes, this class, is not more complex, so, we will not be here, if we take another example, we will make a base, in this example, and, in the form, there is another form, we have studied about this concept, we will talk about, the print statement, how many times, how many operations, in the code, we will see, we will analyze, if, we take, the outer loop, i is equal to 0, i is equal to 1, i is equal to 3, i is equal to 4, and i is equal to 5, and, as soon as, i value is 0, in the first case, in the loop, or, if we say, we will do, then, n times, there, the value of j, will be 0, then, 1, 2, 3, 4, and, 4, i is equal to 0, for loop, n times, j is equal to 1, j value will be 0, then, 1, 2, 3, 4, in this way, i is equal to 1, in the loop, n times, in this way, all i values, in the loop, n times, and, all i values, in every outer loop, in the loop, n times, in total, all i values, in total, all i values, in total, n times, in total, n times, in total, n times, n times, we can never go to any code. If we talk about, the code that we have got, we have only input n in it. Now, the outer loop is going to n times, and, the inner loop is going to m times, Now, let's do a little dry here. So, i is equal to 0, for j value, 1, 2, and, in this way, m will be given to m, will be equal to 2 and m. I equal to 3 also j value 0 to m will be equal to 0 and same will happen until our i n is equal to 0. So our outer loop is running, it is running n times and inner loop is performing every single time, how many operations every single time. So this time the time complexity of this code will be in the worst case, how many operations can be performed. It can be n into m. So how many times we will do this code, how many is it is big O of n into m. So in some way we will represent time complexity. Let us take another example, we are taking n and m input, but here we are not talking about nested loops. Here we have written two separate loops. The first loop is a for loop, which runs, i is equal to 0 to n. The second also runs a for loop, which is equal to 0 to m. Now talk about how many operations are performing. So in this for loop, the first for loop is performing, n operation means it is looking like n time. In the second for loop, m operation is looking like m time. Now after for loop, after loop, here our total number of operations will be added. Last time nested loop is multiplying, so here first n times will be operant, then n times complexity will be big O of n plus m. Now when we take n and m into 2 and 3, then we will not have to take time as much as possible. But if n value 10 to the power 6, and m value 3, then in that case we will see that our big O of time complexity will be n. Because n is so significant that m will be negligible in front of it and the final time complexity will be coming out. It always depends on the size of the big input. So time complexity is the effect. We do not get to see so much on the small input sizes, we will get to see so much. When we get the input size of the code, it will be exponential, it will be in a very big value. Now once we compare the three time complexity so that we can compare the concept code better, the concept code runs faster and runs faster than the concept code. One code is the time complexity given by big O of n, one by n square, one by n cube. Now we take the small input, that is n is equal to 1 if we analyze it. So we can understand that big O of n means that it will be a cooperation performed or a unit time. For n square, it will be a cooperation or a unit time. For n cube, it will be a unit time. Now if we increase n and do n is equal to 2. So n is equal to 2 in the case where big O of n was looking at. There are two operations performed, two units of time. But n square case has now been four operations, four unit time, n cube case has eight unit time. Same if n is equal to 3 case, so in big O of n value, we will find three unit time n square and n cube is 27 units of time. And as soon as we increase n, we will do 10 to the power 5. So here it will be like 10 to the power 5 times, here it will be like 10 to the power 10 times and here it will be like 10 to the power 30 times. Now the difference between these times is, this is a very big difference. And we are clearly aware that this time is very less and this time is much more. So here the best code, the time is less, this will be the second number and third number will be our n cube. So ahead we will be studying some data structures, some algorithms, some algorithms, what we have to do is to optimize our time. So like dynamic programming, we have to optimize our time complexity of code. So if you have to optimize your code, n to the power 4 times or your factorial, then it also optimize n square, n cube. So it is very important to reduce the time of code so that our code is run as fast as possible. Now we have talked about time complexity, but another important factor will be that how good our code is or how bad it is. And that is our space complexity. A code's space complexity depends on how much code is taking place in memory. Now how much code will take place in memory in memory depends on how many variables in memory are stored in the code. Now if we visualize our memory and visualize the code, then the first thing is that the scanner object is stored in the integer n. Then the store will be stored in the memory. In this case we are not storing anything in the memory. We will only store these three variables in the memory. Now we will not store the input variable n size. We will not store any difference in the code in memory. Because the n variable is stored once and the input size is not impacting anything in the terms of space. Because of n, we will not store any new variables. That is why we increase the n size. If we do exponential, 10 to the power 6, 10 to the power 10, then what is the space in our code for this particular code? Now we have taken that case, which will not depend on our input size. Now we will talk about the new data structure that we call Arise. Arise is based on basic definition that if you are making a lot of variables of one type, then you can make a list of variables in the form of a list. If we want to store a number of variables in the form of X, Y, Z, A, B, C, then we will make a list of variables in the memory. Or we will make a list of the variables in the form of a list of variables in the form of a list of variables in the form of a list of variables. Usually we prefer to store a list of variables in order to provide an array of data types. So we made an array from a method. Now let's assume that in 6 places we have to store 5 numbers of the 10 to the power. So the size of the array will go to where the size will go to 10 to the power 5. So this is the case in which our input size is increasing our memory storage. So the number of variables we will increase the number of the variables we will store. The number of the variables we will increase the number of the code in memory. So this is the case in which our space complexity is heavily dependent on our input size. Now how the space complexity depends on the arrays. We will learn more extensively in the arrays lectures. Now we just have to know that our input size affects our memory and not in any other cases. In those cases we have to pay attention to that code so that we can use less memory so that our code is more efficient. Because memory size does not affect our computer. In order to read and write in memory we also have extra operations. In hardware level we want to avoid the time which increases the time. So I hope that we will be taking this video from today's point of view that the time is as low as our code. The space is as low as our code. Now we have given you the notes of this video lecture. There are some questions that you are solving. I will see you in the next video till then keep learning and keep exploring."
+}

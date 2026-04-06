@@ -1,0 +1,4079 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Hi everyone and welcome to the Java placement course.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 4.0,
+            "end": 8.0,
+            "text": " Today's lecture will be about the functions or methods.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 8.0,
+            "end": 10.0,
+            "text": " Now, before talking about functions and methods,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 10.0,
+            "end": 15.0,
+            "text": " let's take a look at all the concepts we have in our lecture about our initials.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 15.0,
+            "end": 18.0,
+            "text": " All these concepts are fundamental to Java.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " That is, if you are programming in any language,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " then you should have some concepts in the C++,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 24.0,
+            "end": 27.0,
+            "text": " you are programming in Python and you are doing Java.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 27.0,
+            "end": 30.0,
+            "text": " So, the concepts are almost similar to all the languages.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 30.0,
+            "end": 33.0,
+            "text": " The language changes to code.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 33.0,
+            "end": 36.0,
+            "text": " That is why we are doing all these concepts.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 36.0,
+            "end": 40.0,
+            "text": " You will practice them as much as you can and learn them as soon as possible.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 40.0,
+            "end": 44.0,
+            "text": " We will get help in learning a strong command in a language.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 44.0,
+            "end": 48.0,
+            "text": " Now, let's talk about the methods in the Java.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 48.0,
+            "end": 53.0,
+            "text": " Now, the functions in the Java are called block of code.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 53.0,
+            "end": 56.0,
+            "text": " What happens is block of code.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " Here, there is a code written here.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " The input takes something,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 60.0,
+            "end": 63.0,
+            "text": " the operation takes something,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 63.0,
+            "end": 67.0,
+            "text": " and the output produces something.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 67.0,
+            "end": 72.0,
+            "text": " For example, if we take a thermometer",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 72.0,
+            "end": 74.0,
+            "text": " from this block of code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " then the thermometer is the work of the thermometer.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " It sends the temperature from your body to the temperature.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " The temperature is so much that it shows the output from that.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 82.0,
+            "end": 86.0,
+            "text": " Similarly, if we take the volume button of our phone,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " then what does the volume button do?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 88.0,
+            "end": 91.0,
+            "text": " Our thumb takes an input from our fingers,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 91.0,
+            "end": 94.0,
+            "text": " which we press and it takes the output",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 94.0,
+            "end": 97.0,
+            "text": " to get the volume in our phone.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 97.0,
+            "end": 101.0,
+            "text": " Similarly, if we take a TV remote example,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 101.0,
+            "end": 104.0,
+            "text": " then the buttons in the TV remote are very large.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 104.0,
+            "end": 108.0,
+            "text": " Every button is performing in itself,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 108.0,
+            "end": 111.0,
+            "text": " this is a work of operation, which is performing the button.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " What does the input give?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " We press it in the input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 115.0,
+            "end": 117.0,
+            "text": " and what does the output give?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 117.0,
+            "end": 119.0,
+            "text": " It gives us a result.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 119.0,
+            "end": 122.0,
+            "text": " The result is that the TV channel is on the serial of your news,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " or the discovery channel is on the serial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " So, in this way, the functions are in our code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 128.0,
+            "end": 132.0,
+            "text": " there is a block, a part of our code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 132.0,
+            "end": 134.0,
+            "text": " which takes some input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 134.0,
+            "end": 136.0,
+            "text": " and returns some output,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 136.0,
+            "end": 139.0,
+            "text": " which is performing an operation.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 139.0,
+            "end": 142.0,
+            "text": " Now, if we write the function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 142.0,
+            "end": 145.0,
+            "text": " then the syntax of the function is something like this.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 145.0,
+            "end": 149.0,
+            "text": " We define the function first, its return type.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 149.0,
+            "end": 151.0,
+            "text": " So, first we will give its return type.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 151.0,
+            "end": 157.0,
+            "text": " Now, this return type can also be int, float, string,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 157.0,
+            "end": 161.0,
+            "text": " or any data type we have discussed,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " all the possible data types can be found.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 163.0,
+            "end": 166.0,
+            "text": " Our return type.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 166.0,
+            "end": 169.0,
+            "text": " Return type means, this type of value is returning.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 169.0,
+            "end": 174.0,
+            "text": " Now, the function of Java can be returned to one type of value.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 174.0,
+            "end": 179.0,
+            "text": " Or, it can be int, float value, string value,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 179.0,
+            "end": 183.0,
+            "text": " and we will be reading that areas and objects are also types.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 183.0,
+            "end": 187.0,
+            "text": " In these types, multiple values can be returned together.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 187.0,
+            "end": 190.0,
+            "text": " So, here, we have seen the examples we have seen,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 190.0,
+            "end": 192.0,
+            "text": " and we are returning single values.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 192.0,
+            "end": 195.0,
+            "text": " So, in our class, we will also take the examples of their functions,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 195.0,
+            "end": 198.0,
+            "text": " which I am returning single value.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 198.0,
+            "end": 201.0,
+            "text": " As if the return type of function is int,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 201.0,
+            "end": 207.0,
+            "text": " we will be able to return a integer type variable,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 207.0,
+            "end": 210.0,
+            "text": " and in this way, if it is float type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 210.0,
+            "end": 213.0,
+            "text": " then we will be able to return a float type variable.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 214.0,
+            "end": 217.0,
+            "text": " Along with this, there is another special return type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 217.0,
+            "end": 219.0,
+            "text": " which we call void.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 219.0,
+            "end": 222.0,
+            "text": " Void means no return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 222.0,
+            "end": 225.0,
+            "text": " Whenever we write a function's return type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 225.0,
+            "end": 229.0,
+            "text": " we write void, meaning, it does not return anything.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 229.0,
+            "end": 233.0,
+            "text": " Now, Java's first function we had written was",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 233.0,
+            "end": 237.0,
+            "text": " in our public static void, which we write in every code.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 237.0,
+            "end": 240.0,
+            "text": " So, whatever methods we are talking about,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 240.0,
+            "end": 242.0,
+            "text": " the main function is in our code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 242.0,
+            "end": 245.0,
+            "text": " which if you look at the return type, then it is void.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 245.0,
+            "end": 248.0,
+            "text": " Now, what is the public static void?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 248.0,
+            "end": 251.0,
+            "text": " So, public and static are two keywords.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 251.0,
+            "end": 255.0,
+            "text": " First is public, second is static.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 255.0,
+            "end": 260.0,
+            "text": " These are the main classes,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 260.0,
+            "end": 263.0,
+            "text": " which are in our primary class,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " and why we write them?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 265.0,
+            "end": 270.0,
+            "text": " In the next step, we will learn an object-oriented programming name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 270.0,
+            "end": 273.0,
+            "text": " which we will explain in public,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 273.0,
+            "end": 276.0,
+            "text": " which is the meaning of the word, and the meaning of the static.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 276.0,
+            "end": 280.0,
+            "text": " But, now, we will learn that the function we write in our primary class,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 280.0,
+            "end": 284.0,
+            "text": " we will be able to write them all by default by the public static.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 285.0,
+            "end": 288.0,
+            "text": " So, in front of our public static,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 288.0,
+            "end": 291.0,
+            "text": " we will write some of the returns type in this way.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 291.0,
+            "end": 294.0,
+            "text": " Then, our return type will be returned.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 294.0,
+            "end": 297.0,
+            "text": " Then, we will write our function name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 297.0,
+            "end": 300.0,
+            "text": " Now, this function's name can be something,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " which we should also give, that is possible.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 302.0,
+            "end": 306.0,
+            "text": " There is only one condition, that the word is not a keyword.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 306.0,
+            "end": 309.0,
+            "text": " That is, we had already talked about keywords,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 309.0,
+            "end": 312.0,
+            "text": " which are defined in a dictionary.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " These words are fixed,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 314.0,
+            "end": 317.0,
+            "text": " they cannot be used for any other work of the word.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 317.0,
+            "end": 320.0,
+            "text": " So, whenever we have to define a function name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " then we have to get a name from our own side,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 322.0,
+            "end": 324.0,
+            "text": " which we should not get from the word before.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 324.0,
+            "end": 326.0,
+            "text": " As we can write the name of this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 326.0,
+            "end": 328.0,
+            "text": " print, my name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 328.0,
+            "end": 331.0,
+            "text": " then we will learn the name of the function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 331.0,
+            "end": 334.0,
+            "text": " that this function's name is to print my name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 334.0,
+            "end": 336.0,
+            "text": " Or, we can give this function's name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 336.0,
+            "end": 338.0,
+            "text": " calculate, sum.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 338.0,
+            "end": 342.0,
+            "text": " So, we will know clearly, that this function is to calculate the sum.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 342.0,
+            "end": 345.0,
+            "text": " Now, we will be able to make a good program,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " when we will keep the name of the functions,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " that we will know the name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 349.0,
+            "end": 352.0,
+            "text": " what function we are working on, what operation is performing.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 352.0,
+            "end": 354.0,
+            "text": " So, we talked about two things,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 354.0,
+            "end": 356.0,
+            "text": " first of all, our return type.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 356.0,
+            "end": 358.0,
+            "text": " Then, we will be giving our function's name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 359.0,
+            "end": 363.0,
+            "text": " Then, our arguments are called inputs.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 363.0,
+            "end": 366.0,
+            "text": " We have all the inputs,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 366.0,
+            "end": 368.0,
+            "text": " we call them arguments.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 368.0,
+            "end": 372.0,
+            "text": " So, we can also get two arguments in one time,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 372.0,
+            "end": 375.0,
+            "text": " and we can also get many arguments.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 375.0,
+            "end": 380.0,
+            "text": " First of all, we define the type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 380.0,
+            "end": 383.0,
+            "text": " which type of argument we are defining.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " As we defined the return type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 385.0,
+            "end": 387.0,
+            "text": " this type of argument can be something.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 387.0,
+            "end": 391.0,
+            "text": " This can be int, float, string,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 391.0,
+            "end": 394.0,
+            "text": " your Boolean can be something.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 394.0,
+            "end": 395.0,
+            "text": " And so on.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " Then, we write our argument name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 397.0,
+            "end": 400.0,
+            "text": " Now, as we want to give an input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 400.0,
+            "end": 402.0,
+            "text": " then how we will write int,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 402.0,
+            "end": 404.0,
+            "text": " age, age, and with age,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 404.0,
+            "end": 406.0,
+            "text": " we also have to give the temperature of that person,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 406.0,
+            "end": 408.0,
+            "text": " which is a float value.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 408.0,
+            "end": 409.0,
+            "text": " So, how we will give it?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 409.0,
+            "end": 412.0,
+            "text": " Float, temperature.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 412.0,
+            "end": 414.0,
+            "text": " So, in this way, we have to write a comma,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 414.0,
+            "end": 417.0,
+            "text": " we can pass multiple arguments in a function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 417.0,
+            "end": 420.0,
+            "text": " and all these arguments are called inputs.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 420.0,
+            "end": 422.0,
+            "text": " We write the parenthesis in it,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 422.0,
+            "end": 424.0,
+            "text": " and separate it from the comma.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 424.0,
+            "end": 428.0,
+            "text": " And, we can take all the arguments in different types,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 428.0,
+            "end": 429.0,
+            "text": " such as the same,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 429.0,
+            "end": 433.0,
+            "text": " and we have written a return type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 433.0,
+            "end": 435.0,
+            "text": " the function name, the arguments are all taken,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 435.0,
+            "end": 436.0,
+            "text": " the input is taken.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 436.0,
+            "end": 441.0,
+            "text": " Now, we will perform some operations within the curly braces.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 441.0,
+            "end": 444.0,
+            "text": " As we write the same code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 444.0,
+            "end": 447.0,
+            "text": " the same steps we have written in the main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 447.0,
+            "end": 451.0,
+            "text": " all these steps can be written within this function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 451.0,
+            "end": 454.0,
+            "text": " So, in a way, we write all the things within the function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 454.0,
+            "end": 456.0,
+            "text": " we define all these things,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 456.0,
+            "end": 458.0,
+            "text": " what is the work of this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 458.0,
+            "end": 460.0,
+            "text": " and what is the operation performing.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 460.0,
+            "end": 462.0,
+            "text": " Now, let's take an example,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 462.0,
+            "end": 463.0,
+            "text": " we have a question,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 463.0,
+            "end": 465.0,
+            "text": " print a given name in a function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 465.0,
+            "end": 466.0,
+            "text": " What will you do?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 466.0,
+            "end": 468.0,
+            "text": " You will take an input from a user,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 468.0,
+            "end": 470.0,
+            "text": " and call a function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 470.0,
+            "end": 472.0,
+            "text": " We will take the name of the function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 472.0,
+            "end": 475.0,
+            "text": " print, my, name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 475.0,
+            "end": 477.0,
+            "text": " Now, the print name, which is also a function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 477.0,
+            "end": 480.0,
+            "text": " we will print our name in this,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 480.0,
+            "end": 484.0,
+            "text": " and we will call this function to execute this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 484.0,
+            "end": 486.0,
+            "text": " to execute this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 486.0,
+            "end": 489.0,
+            "text": " to use the statement that how to execute this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 489.0,
+            "end": 490.0,
+            "text": " how to run,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 490.0,
+            "end": 493.0,
+            "text": " how to see it in the code.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 493.0,
+            "end": 496.0,
+            "text": " Now, first of all, we have defined our code in our class,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 496.0,
+            "end": 497.0,
+            "text": " our functions.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 497.0,
+            "end": 500.0,
+            "text": " In it, the main function we already wrote,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 500.0,
+            "end": 501.0,
+            "text": " now what will we do?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 501.0,
+            "end": 502.0,
+            "text": " We will make a new function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 502.0,
+            "end": 505.0,
+            "text": " The name of the new function is public static,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 505.0,
+            "end": 508.0,
+            "text": " which is the first two keywords we write in my default,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 508.0,
+            "end": 510.0,
+            "text": " we will keep this return type void,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 510.0,
+            "end": 512.0,
+            "text": " because no function will perform any work.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 512.0,
+            "end": 515.0,
+            "text": " The name of this function is just to print our name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 515.0,
+            "end": 519.0,
+            "text": " So, let's give it the name print my name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 519.0,
+            "end": 522.0,
+            "text": " Now, in Java, we have different different variables,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 522.0,
+            "end": 524.0,
+            "text": " or identifier,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 524.0,
+            "end": 527.0,
+            "text": " the name we have given in Java,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 527.0,
+            "end": 529.0,
+            "text": " they are different in different ways.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 529.0,
+            "end": 532.0,
+            "text": " We are going from the topic,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 532.0,
+            "end": 534.0,
+            "text": " but to learn this,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 534.0,
+            "end": 536.0,
+            "text": " if we want to write something,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 536.0,
+            "end": 537.0,
+            "text": " like print my name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 537.0,
+            "end": 539.0,
+            "text": " we could write it like this,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 539.0,
+            "end": 541.0,
+            "text": " print my name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 541.0,
+            "end": 543.0,
+            "text": " we could write it like this,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 543.0,
+            "end": 547.0,
+            "text": " print underscore my underscore name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 547.0,
+            "end": 549.0,
+            "text": " we could write it like this,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 549.0,
+            "end": 551.0,
+            "text": " print capital MY,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 551.0,
+            "end": 552.0,
+            "text": " capital N,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 552.0,
+            "end": 553.0,
+            "text": " and no.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 553.0,
+            "end": 556.0,
+            "text": " So, we are following this convention,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 556.0,
+            "end": 558.0,
+            "text": " which we call as camel case.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 558.0,
+            "end": 559.0,
+            "text": " So, upper case,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 559.0,
+            "end": 561.0,
+            "text": " and lower case,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 561.0,
+            "end": 564.0,
+            "text": " that the way to write letters is right,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 564.0,
+            "end": 566.0,
+            "text": " the beginning word is,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 566.0,
+            "end": 567.0,
+            "text": " you write all the lower cases,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 567.0,
+            "end": 568.0,
+            "text": " small characters,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 568.0,
+            "end": 569.0,
+            "text": " and then,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 569.0,
+            "end": 570.0,
+            "text": " as you are writing words,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 570.0,
+            "end": 573.0,
+            "text": " in the first letter,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 573.0,
+            "end": 574.0,
+            "text": " capital of the word,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 574.0,
+            "end": 578.0,
+            "text": " we call it as camel case.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 578.0,
+            "end": 579.0,
+            "text": " Now, in Java,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 579.0,
+            "end": 581.0,
+            "text": " we will use the term camel case,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 581.0,
+            "end": 583.0,
+            "text": " because by default,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 583.0,
+            "end": 586.0,
+            "text": " all the functions in Java are written in camel case.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 586.0,
+            "end": 588.0,
+            "text": " If we talk about Python,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 588.0,
+            "end": 589.0,
+            "text": " then in Python,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 589.0,
+            "end": 590.0,
+            "text": " this word case is used,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 590.0,
+            "end": 592.0,
+            "text": " in JavaScript,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 592.0,
+            "end": 593.0,
+            "text": " in other cases,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 593.0,
+            "end": 594.0,
+            "text": " in By default,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 594.0,
+            "end": 595.0,
+            "text": " in Java,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 595.0,
+            "end": 596.0,
+            "text": " we will use this word case,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " because code is systematic again.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " We will write all the functions and variables",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 600.0,
+            "end": 602.0,
+            "text": " in this camel case.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 602.0,
+            "end": 604.0,
+            "text": " So, a uniformity will come,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 604.0,
+            "end": 606.0,
+            "text": " we will show all the code in our code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 606.0,
+            "end": 607.0,
+            "text": " neat and clean and like this.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 607.0,
+            "end": 608.0,
+            "text": " Now,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 608.0,
+            "end": 610.0,
+            "text": " now, in public static void print,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 610.0,
+            "end": 611.0,
+            "text": " we have called it,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 611.0,
+            "end": 612.0,
+            "text": " what is the argument in it?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 612.0,
+            "end": 613.0,
+            "text": " The argument will be one,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 613.0,
+            "end": 615.0,
+            "text": " or the input will be one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 615.0,
+            "end": 617.0,
+            "text": " We have to give this function in the input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 617.0,
+            "end": 618.0,
+            "text": " our name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 618.0,
+            "end": 620.0,
+            "text": " so that we can print it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 620.0,
+            "end": 621.0,
+            "text": " So, the type of input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 621.0,
+            "end": 622.0,
+            "text": " we will write a string,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 622.0,
+            "end": 624.0,
+            "text": " and what is the name of the argument?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 624.0,
+            "end": 626.0,
+            "text": " Let's give it a name.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 626.0,
+            "end": 627.0,
+            "text": " And in this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 627.0,
+            "end": 629.0,
+            "text": " we will write print statements,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 629.0,
+            "end": 631.0,
+            "text": " print our name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 631.0,
+            "end": 632.0,
+            "text": " and now,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " we have to leave this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 634.0,
+            "end": 635.0,
+            "text": " that means,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 635.0,
+            "end": 636.0,
+            "text": " this function is finished,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 636.0,
+            "end": 637.0,
+            "text": " now, we have to leave it outside.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 637.0,
+            "end": 639.0,
+            "text": " So, we use a return keyword,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 639.0,
+            "end": 640.0,
+            "text": " return means,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 640.0,
+            "end": 642.0,
+            "text": " that wherever you come to work,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 642.0,
+            "end": 644.0,
+            "text": " you come to work inside this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 644.0,
+            "end": 646.0,
+            "text": " now, you come outside.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 646.0,
+            "end": 649.0,
+            "text": " If this function was doing some output return,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 649.0,
+            "end": 651.0,
+            "text": " that means, you were doing the integer return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 651.0,
+            "end": 652.0,
+            "text": " So, here, in return,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " the integer,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 654.0,
+            "end": 655.0,
+            "text": " we would return it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 655.0,
+            "end": 656.0,
+            "text": " So, it is one integer,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 656.0,
+            "end": 658.0,
+            "text": " so, we have written one in the example,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 658.0,
+            "end": 660.0,
+            "text": " that this function has been printed,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 660.0,
+            "end": 662.0,
+            "text": " and now, we are doing this one return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 662.0,
+            "end": 664.0,
+            "text": " But, we will keep the type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 664.0,
+            "end": 666.0,
+            "text": " the void return will not be anything,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 666.0,
+            "end": 668.0,
+            "text": " and the void return will not be anything.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 668.0,
+            "end": 670.0,
+            "text": " Now, for this function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 670.0,
+            "end": 672.0,
+            "text": " we will take an input from the user,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 672.0,
+            "end": 674.0,
+            "text": " to take an input from the user,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 674.0,
+            "end": 676.0,
+            "text": " we will make a scanner object,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 676.0,
+            "end": 678.0,
+            "text": " a scanner class.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 678.0,
+            "end": 680.0,
+            "text": " So, we will take a string type,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 680.0,
+            "end": 681.0,
+            "text": " name input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 681.0,
+            "end": 683.0,
+            "text": " sc.next.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 683.0,
+            "end": 685.0,
+            "text": " And what we will do,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 685.0,
+            "end": 687.0,
+            "text": " is, we will call this function print my name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 687.0,
+            "end": 688.0,
+            "text": " which is the main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 688.0,
+            "end": 690.0,
+            "text": " that means, we will call this from the main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 690.0,
+            "end": 691.0,
+            "text": " and we will do the work.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 691.0,
+            "end": 693.0,
+            "text": " So, we will write the name of print my name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 693.0,
+            "end": 694.0,
+            "text": " and then,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 694.0,
+            "end": 695.0,
+            "text": " we will see that,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 695.0,
+            "end": 697.0,
+            "text": " we will pass all the inputs in the parent,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 697.0,
+            "end": 699.0,
+            "text": " here, there is only one input,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 699.0,
+            "end": 700.0,
+            "text": " which is name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 700.0,
+            "end": 701.0,
+            "text": " we passed it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 701.0,
+            "end": 702.0,
+            "text": " So, this much code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 702.0,
+            "end": 703.0,
+            "text": " you printed the name of the name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 703.0,
+            "end": 704.0,
+            "text": " the main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 704.0,
+            "end": 705.0,
+            "text": " and the name of the name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 705.0,
+            "end": 707.0,
+            "text": " we called the function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 707.0,
+            "end": 712.0,
+            "text": " so, here, we called the function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 712.0,
+            "end": 714.0,
+            "text": " and here, we have declared our function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 714.0,
+            "end": 716.0,
+            "text": " as soon as we call it,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 716.0,
+            "end": 718.0,
+            "text": " we will reach the print my name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 718.0,
+            "end": 720.0,
+            "text": " where the name will be printed,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 720.0,
+            "end": 721.0,
+            "text": " and we will return it,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 721.0,
+            "end": 724.0,
+            "text": " and return it in the main function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 724.0,
+            "end": 727.0,
+            "text": " Now, let's save it and run it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 727.0,
+            "end": 729.0,
+            "text": " The output that we have come,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 729.0,
+            "end": 731.0,
+            "text": " first of all, we have to type in name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 731.0,
+            "end": 733.0,
+            "text": " so, let's type in name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 733.0,
+            "end": 735.0,
+            "text": " and we have given the input name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 735.0,
+            "end": 737.0,
+            "text": " and we have printed the name for us,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 737.0,
+            "end": 738.0,
+            "text": " and returned it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 738.0,
+            "end": 739.0,
+            "text": " So, in some way,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 739.0,
+            "end": 741.0,
+            "text": " our function has printed our name,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 741.0,
+            "end": 742.0,
+            "text": " and we have echoed it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 742.0,
+            "end": 743.0,
+            "text": " Now, let's understand,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " what impact does the function of using the function of memory",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 745.0,
+            "end": 746.0,
+            "text": " is,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 746.0,
+            "end": 747.0,
+            "text": " as we make the function of the code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 747.0,
+            "end": 748.0,
+            "text": " inside the code,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 748.0,
+            "end": 750.0,
+            "text": " what is the function of memory?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 750.0,
+            "end": 753.0,
+            "text": " Let's assume that our function was a main,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 753.0,
+            "end": 754.0,
+            "text": " so, here, we will write,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 754.0,
+            "end": 755.0,
+            "text": " public,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 755.0,
+            "end": 756.0,
+            "text": " static,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 756.0,
+            "end": 758.0,
+            "text": " void,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 758.0,
+            "end": 759.0,
+            "text": " main.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 759.0,
+            "end": 761.0,
+            "text": " Now, the main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 761.0,
+            "end": 762.0,
+            "text": " within this,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 762.0,
+            "end": 763.0,
+            "text": " something has been done,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 763.0,
+            "end": 765.0,
+            "text": " and it has called,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 765.0,
+            "end": 767.0,
+            "text": " new function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 767.0,
+            "end": 768.0,
+            "text": " and here,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 768.0,
+            "end": 771.0,
+            "text": " our public, static, void,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 771.0,
+            "end": 773.0,
+            "text": " was a new function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 773.0,
+            "end": 774.0,
+            "text": " Now, first of all,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 774.0,
+            "end": 776.0,
+            "text": " the most important functions,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 776.0,
+            "end": 777.0,
+            "text": " are the functions of all the memory",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 777.0,
+            "end": 779.0,
+            "text": " from a stack form.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 779.0,
+            "end": 782.0,
+            "text": " So, if you have a book on the same page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 782.0,
+            "end": 785.0,
+            "text": " when you write a book on the same page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 785.0,
+            "end": 787.0,
+            "text": " or you have a book on the same page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 787.0,
+            "end": 790.0,
+            "text": " then how do we write a book on one page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 790.0,
+            "end": 791.0,
+            "text": " on one page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 791.0,
+            "end": 792.0,
+            "text": " on one page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 792.0,
+            "end": 795.0,
+            "text": " we call it a stack formation.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 795.0,
+            "end": 796.0,
+            "text": " What do we call it?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 796.0,
+            "end": 798.0,
+            "text": " Stack formation.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 798.0,
+            "end": 800.0,
+            "text": " If you are keeping a plate,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 800.0,
+            "end": 802.0,
+            "text": " then you will keep a plate on one page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 802.0,
+            "end": 805.0,
+            "text": " and we will also stack it on the plate,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 805.0,
+            "end": 807.0,
+            "text": " we will stack books,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 807.0,
+            "end": 809.0,
+            "text": " and if you keep a plate on one page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 809.0,
+            "end": 811.0,
+            "text": " then it will stack on the plate.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 811.0,
+            "end": 812.0,
+            "text": " So, stack means,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 812.0,
+            "end": 814.0,
+            "text": " keep one page on one page,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 814.0,
+            "end": 817.0,
+            "text": " and when we have a function inside the memory,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 817.0,
+            "end": 819.0,
+            "text": " it is saved in a stack form.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 819.0,
+            "end": 821.0,
+            "text": " And in a stack,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 821.0,
+            "end": 824.0,
+            "text": " we call it a stack frame.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 824.0,
+            "end": 829.0,
+            "text": " So, as the main function is created in the memory,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 829.0,
+            "end": 832.0,
+            "text": " the first stack frame that will be created,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 832.0,
+            "end": 835.0,
+            "text": " will be our main function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 835.0,
+            "end": 838.0,
+            "text": " So, here, the memory will be something,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 838.0,
+            "end": 841.0,
+            "text": " which will allocate our main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 841.0,
+            "end": 845.0,
+            "text": " and the variables in the main function will be stored,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 845.0,
+            "end": 847.0,
+            "text": " and the same way,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 847.0,
+            "end": 849.0,
+            "text": " the main function will be called,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 849.0,
+            "end": 851.0,
+            "text": " and this new function will be created.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 851.0,
+            "end": 852.0,
+            "text": " So, what happens?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 852.0,
+            "end": 854.0,
+            "text": " There will be another stack frame.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 854.0,
+            "end": 856.0,
+            "text": " So, the main function will be called,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 856.0,
+            "end": 858.0,
+            "text": " and another stack frame will be created,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 858.0,
+            "end": 861.0,
+            "text": " for which, for our new function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 861.0,
+            "end": 864.0,
+            "text": " the variables of the new function will be stored,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 864.0,
+            "end": 868.0,
+            "text": " and as soon as the new function returns,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 868.0,
+            "end": 872.0,
+            "text": " or the new function returns the main function,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 872.0,
+            "end": 875.0,
+            "text": " then the new function will be removed from memory,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 875.0,
+            "end": 878.0,
+            "text": " and then, the main function will be saved in memory,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 878.0,
+            "end": 881.0,
+            "text": " and as the main function is over,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 881.0,
+            "end": 883.0,
+            "text": " then, the main function will be removed from memory.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 883.0,
+            "end": 885.0,
+            "text": " So, in some way,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 885.0,
+            "end": 887.0,
+            "text": " there is work in memory in this way,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 887.0,
+            "end": 889.0,
+            "text": " whenever we create functions,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 889.0,
+            "end": 892.0,
+            "text": " we get a function stored in the memory stack,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 892.0,
+            "end": 898.0,
+            "text": " All the variables are stored in the same memory stack frame.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 898.0,
+            "end": 904.0,
+            "text": " So, the more you make the function, the more your memory stack will be.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 904.0,
+            "end": 910.0,
+            "text": " The more you call the function, the more your memory stack will be.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 910.0,
+            "end": 916.0,
+            "text": " How does memory work? When we define the variables, we define the other things.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 916.0,
+            "end": 918.0,
+            "text": " We will learn about the objects in the class of the game.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 918.0,
+            "end": 924.0,
+            "text": " Because how does memory work? On the other hand, the objects and the objects are so different.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 924.0,
+            "end": 933.0,
+            "text": " The impact of the object is that, when we learn the objects in the class of the game, we will understand that the different parts of the game are working in the same way.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 933.0,
+            "end": 940.0,
+            "text": " But we discussed here how functions work in the memory.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 940.0,
+            "end": 945.0,
+            "text": " So, in the form of stack, we have some questions to practice.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 945.0,
+            "end": 949.0,
+            "text": " The more the commands of the functions, the stronger the function will be.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 949.0,
+            "end": 951.0,
+            "text": " We will understand how functions work.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 951.0,
+            "end": 955.0,
+            "text": " A question is, make a function to add two numbers and return the sum.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 955.0,
+            "end": 957.0,
+            "text": " So, what do I have to do with the user?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 957.0,
+            "end": 961.0,
+            "text": " Take two numbers. First of all, we input these two numbers.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 961.0,
+            "end": 965.0,
+            "text": " Int A is equal to SC dot next int.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 965.0,
+            "end": 970.0,
+            "text": " Int B is equal to...",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 971.0,
+            "end": 976.0,
+            "text": " What we will do after that, we will remove our old function and make a new function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 976.0,
+            "end": 979.0,
+            "text": " We will give the name of the new function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 979.0,
+            "end": 984.0,
+            "text": " We will give this return type int because this time, we will return the sum of these two numbers.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 984.0,
+            "end": 987.0,
+            "text": " So, let's give the name of the return type int.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 987.0,
+            "end": 990.0,
+            "text": " Calculate sum.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 990.0,
+            "end": 993.0,
+            "text": " Calculate sum will be in two parameters. Int A and int B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 993.0,
+            "end": 998.0,
+            "text": " So, what we have to do now is calculate the sum of these two parameters.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 998.0,
+            "end": 1004.0,
+            "text": " Int sum is equal to A plus B and returns the sum of these parameters.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1004.0,
+            "end": 1007.0,
+            "text": " So, this way, the sum is also an integer value.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1007.0,
+            "end": 1014.0,
+            "text": " So, what we have done here is, let's make a main function for some variable.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1014.0,
+            "end": 1017.0,
+            "text": " So, the one that we have made for some variable is calculated for some.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1017.0,
+            "end": 1020.0,
+            "text": " Now, we will make the main function for some variable.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1021.0,
+            "end": 1023.0,
+            "text": " Int sum is equal to...",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1023.0,
+            "end": 1028.0,
+            "text": " We had called, we will calculate sum, calculate sum, pass A and B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1028.0,
+            "end": 1032.0,
+            "text": " And after passing A and B, we will output all the variables.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1032.0,
+            "end": 1035.0,
+            "text": " We will store it equal to this, it is a new sum.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1035.0,
+            "end": 1038.0,
+            "text": " And then we will do this sum.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1038.0,
+            "end": 1039.0,
+            "text": " Print.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1039.0,
+            "end": 1042.0,
+            "text": " And if we save it and run it,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1042.0,
+            "end": 1046.0,
+            "text": " So, first we will pass the code to A3.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1047.0,
+            "end": 1052.0,
+            "text": " Then we will pass B, which is 4 and we have some returns, which is 7.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1052.0,
+            "end": 1054.0,
+            "text": " It is more or less understood.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1054.0,
+            "end": 1057.0,
+            "text": " So, sum of two numbers is...",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1057.0,
+            "end": 1061.0,
+            "text": " ...one more time, we will run it again.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1061.0,
+            "end": 1064.0,
+            "text": " And this time we will pass 6 and 2.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1064.0,
+            "end": 1067.0,
+            "text": " So, sum of two numbers is 8.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1067.0,
+            "end": 1069.0,
+            "text": " We have returned it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1069.0,
+            "end": 1073.0,
+            "text": " So, in this way, we can make a function for two numbers.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1074.0,
+            "end": 1079.0,
+            "text": " Now, the arguments we are taking in our function, int A, int B, string A, string B,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1079.0,
+            "end": 1082.0,
+            "text": " All these arguments are passed in two ways.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1082.0,
+            "end": 1086.0,
+            "text": " Or, we can pass this by reference, or by value.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1086.0,
+            "end": 1087.0,
+            "text": " What does it mean?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1087.0,
+            "end": 1091.0,
+            "text": " We will learn this in a long time, when we are reading advanced data types.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1091.0,
+            "end": 1094.0,
+            "text": " Because, in advanced data types, by reference things are passing,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1094.0,
+            "end": 1096.0,
+            "text": " So, what does it mean by reference?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1096.0,
+            "end": 1098.0,
+            "text": " Or, what does it mean to pass?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1098.0,
+            "end": 1100.0,
+            "text": " We will be understanding later.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1100.0,
+            "end": 1103.0,
+            "text": " So, if you are reading articles online, and are learning from yourself,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1103.0,
+            "end": 1106.0,
+            "text": " and you have written such things, then we will talk about the next lectures.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1106.0,
+            "end": 1109.0,
+            "text": " We will cover those topics in the next lectures.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1109.0,
+            "end": 1113.0,
+            "text": " So, the next question is, the next question is,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1113.0,
+            "end": 1116.0,
+            "text": " Make a function to multiply two numbers and return the product.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1116.0,
+            "end": 1117.0,
+            "text": " So, we will do the same thing.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1117.0,
+            "end": 1119.0,
+            "text": " We will make a function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1119.0,
+            "end": 1122.0,
+            "text": " We will be entering the function in two numbers, int A and int B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1122.0,
+            "end": 1124.0,
+            "text": " And, what will be the return?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1124.0,
+            "end": 1126.0,
+            "text": " A into B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1127.0,
+            "end": 1128.0,
+            "text": " Now, write a code for this.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1128.0,
+            "end": 1130.0,
+            "text": " A and B, we have taken the first input.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1130.0,
+            "end": 1132.0,
+            "text": " We will make a new function this time.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1132.0,
+            "end": 1133.0,
+            "text": " Let us comment this.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1133.0,
+            "end": 1134.0,
+            "text": " Out.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1135.0,
+            "end": 1141.0,
+            "text": " Public static int calculate product.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1141.0,
+            "end": 1144.0,
+            "text": " The two numbers will be in the calculate product.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1144.0,
+            "end": 1146.0,
+            "text": " int A and int B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1146.0,
+            "end": 1147.0,
+            "text": " What do we do this time?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1147.0,
+            "end": 1149.0,
+            "text": " We will define the variable,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1149.0,
+            "end": 1153.0,
+            "text": " We can calculate A and B directly, A into B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1154.0,
+            "end": 1156.0,
+            "text": " We will do the same value, return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1156.0,
+            "end": 1159.0,
+            "text": " So, we can also return directly to this value.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1159.0,
+            "end": 1162.0,
+            "text": " We need to define a new variable.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1162.0,
+            "end": 1163.0,
+            "text": " Let us do the same.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1163.0,
+            "end": 1165.0,
+            "text": " What will we do here?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1165.0,
+            "end": 1167.0,
+            "text": " We will directly print here.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1167.0,
+            "end": 1169.0,
+            "text": " We will not store in the variable.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1169.0,
+            "end": 1171.0,
+            "text": " Let us write here product.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1172.0,
+            "end": 1176.0,
+            "text": " And, we will call here, we have printed the function in the print statement.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1176.0,
+            "end": 1181.0,
+            "text": " So, let us write calculate product, which we have in A and B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1181.0,
+            "end": 1184.0,
+            "text": " And, whatever return product will be in the print statement,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1184.0,
+            "end": 1186.0,
+            "text": " it will be in the print statement.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1187.0,
+            "end": 1190.0,
+            "text": " We have done this and run it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1191.0,
+            "end": 1194.0,
+            "text": " So, let us do A and B and pass it to B.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1194.0,
+            "end": 1197.0,
+            "text": " So, 2 into 3, so, product of 2 numbers is 6.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1197.0,
+            "end": 1199.0,
+            "text": " We have a correct input.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1200.0,
+            "end": 1202.0,
+            "text": " Now, if we talk about the next question,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1202.0,
+            "end": 1204.0,
+            "text": " the next question is, find the factorial of a number.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1204.0,
+            "end": 1207.0,
+            "text": " We used to study in 1112, what was the factorial?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1207.0,
+            "end": 1209.0,
+            "text": " For any number, n is factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1209.0,
+            "end": 1215.0,
+            "text": " n multiplied by n minus 1 multiplied by n minus 2 multiplied by n minus 3.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1215.0,
+            "end": 1219.0,
+            "text": " And, so, until n is the degree, n is not the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1219.0,
+            "end": 1223.0,
+            "text": " By default, 0 factorial is the value of 1.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1223.0,
+            "end": 1230.0,
+            "text": " For the negative numbers, we do not find factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1230.0,
+            "end": 1233.0,
+            "text": " There is no factorial for negative numbers.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1233.0,
+            "end": 1236.0,
+            "text": " Similarly, if we look at 1 factorial, then 1 is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1236.0,
+            "end": 1239.0,
+            "text": " If we look at 2 factorial, then 2 into 1 is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1239.0,
+            "end": 1240.0,
+            "text": " That is, 2.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1240.0,
+            "end": 1244.0,
+            "text": " If we look at 3 factorial, then 3 into 2 into 1 is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1244.0,
+            "end": 1245.0,
+            "text": " 6 is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1245.0,
+            "end": 1247.0,
+            "text": " 4 factorial is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1247.0,
+            "end": 1249.0,
+            "text": " Similarly, 4 into 3 into 2 into 1.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1249.0,
+            "end": 1251.0,
+            "text": " That is, our 24 is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1251.0,
+            "end": 1253.0,
+            "text": " And, similarly, 5 factorial is the one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1253.0,
+            "end": 1258.0,
+            "text": " 5 into 4 into 3 into 2 into 1 is equal to 120.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1258.0,
+            "end": 1262.0,
+            "text": " So, in this way, we calculate the number of factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1262.0,
+            "end": 1264.0,
+            "text": " How do we calculate the number of factorial?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1264.0,
+            "end": 1270.0,
+            "text": " We are taking the number from that number to 1 and multiplying the number.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1270.0,
+            "end": 1276.0,
+            "text": " Now, we are understanding that the number of the number of the factorial is multiplying.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1276.0,
+            "end": 1278.0,
+            "text": " We are multiplying the number of the factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1278.0,
+            "end": 1281.0,
+            "text": " So, here, we are going to take the help of loops.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1281.0,
+            "end": 1284.0,
+            "text": " So, we are calculating the number of the factorial of the loops.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1284.0,
+            "end": 1286.0,
+            "text": " So, let's go ahead.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1286.0,
+            "end": 1293.0,
+            "text": " Let's take an input of n minus n minus n is equal to sc dot next.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1293.0,
+            "end": 1300.0,
+            "text": " n is equal to sc dot next.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1300.0,
+            "end": 1303.0,
+            "text": " Let's take an input from the number.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1303.0,
+            "end": 1305.0,
+            "text": " Now, let's comment down.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1305.0,
+            "end": 1309.0,
+            "text": " And, we will write our function to calculate factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1309.0,
+            "end": 1312.0,
+            "text": " So, we write the public static as such.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1312.0,
+            "end": 1318.0,
+            "text": " The factorial, which I am not getting a return, will directly print it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1318.0,
+            "end": 1322.0,
+            "text": " So for that we keep the return type to void and write the name of function",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1322.0,
+            "end": 1324.0,
+            "text": " Print factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1324.0,
+            "end": 1327.0,
+            "text": " Print factorial will have a number in the integer n.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1327.0,
+            "end": 1330.0,
+            "text": " And what we will do now is a loop.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1330.0,
+            "end": 1333.0,
+            "text": " So in the loop, we will run a for loop.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1333.0,
+            "end": 1341.0,
+            "text": " We saw the pattern that the i in the for loop is from n to the 1 and i minus",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1341.0,
+            "end": 1343.0,
+            "text": " minus ho every time.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1343.0,
+            "end": 1346.0,
+            "text": " And we multiply it with the same number.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1346.0,
+            "end": 1350.0,
+            "text": " So here we will make a new variable that will calculate the factorial",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1350.0,
+            "end": 1352.0,
+            "text": " will initialize it with 1.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1352.0,
+            "end": 1357.0,
+            "text": " We can initialize the factorial with 0 but 0 factorial is 1.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1357.0,
+            "end": 1361.0,
+            "text": " And if we multiply it with 0 then all values will be 0.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1361.0,
+            "end": 1365.0,
+            "text": " So by default we will take 1 in the beginning and now what we will do?",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1365.0,
+            "end": 1369.0,
+            "text": " We multiply the factorial every time with our i.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1369.0,
+            "end": 1373.0,
+            "text": " So factorial into i and return it in the last one.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1373.0,
+            "end": 1378.0,
+            "text": " We will return the value of our factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1378.0,
+            "end": 1381.0,
+            "text": " We will not return here.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1381.0,
+            "end": 1384.0,
+            "text": " We will print the value of our factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1384.0,
+            "end": 1387.0,
+            "text": " And we will do this return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1387.0,
+            "end": 1390.0,
+            "text": " Now the special thing is that if you have a void in your function",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1390.0,
+            "end": 1395.0,
+            "text": " and you don't have a return then you can also return it with this function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1395.0,
+            "end": 1400.0,
+            "text": " So for void functions we are still writing it so that the return is clear.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1400.0,
+            "end": 1404.0,
+            "text": " Now you will see the main function that is also a void return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1404.0,
+            "end": 1409.0,
+            "text": " But it doesn't come in a return statement because its return is not doing anything.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1409.0,
+            "end": 1413.0,
+            "text": " But here in this function we write the return and it will not be a problem.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1413.0,
+            "end": 1417.0,
+            "text": " So now we are learning in the beginning and write the return type.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1417.0,
+            "end": 1421.0,
+            "text": " So that you remember that you have to return it with the function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1421.0,
+            "end": 1424.0,
+            "text": " So the type of void is called print factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1424.0,
+            "end": 1426.0,
+            "text": " It is the integer and n-argument.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1426.0,
+            "end": 1430.0,
+            "text": " We have started the loop with a variable with the initialized of the initialized.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1430.0,
+            "end": 1433.0,
+            "text": " In the loop we go i is equal to n and 1.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1433.0,
+            "end": 1435.0,
+            "text": " And i has done it minus minus.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1435.0,
+            "end": 1436.0,
+            "text": " Means decrease by 1.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1436.0,
+            "end": 1439.0,
+            "text": " With every iteration, with every step.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1439.0,
+            "end": 1442.0,
+            "text": " We have multiplied the factorial in this way.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1442.0,
+            "end": 1445.0,
+            "text": " And then we have printed the factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1445.0,
+            "end": 1448.0,
+            "text": " Now let's put the main function in the call.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1448.0,
+            "end": 1451.0,
+            "text": " Let's pass the factorial in which we will pass our number n.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1451.0,
+            "end": 1454.0,
+            "text": " Now if we run this code.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1454.0,
+            "end": 1457.0,
+            "text": " First of all we calculate factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1457.0,
+            "end": 1459.0,
+            "text": " For 3, we have to calculate factorial from 6.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1459.0,
+            "end": 1461.0,
+            "text": " If we run it again from 2nd to 1st.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1461.0,
+            "end": 1464.0,
+            "text": " So this time we calculate factorial.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1464.0,
+            "end": 1467.0,
+            "text": " For 5, we have to get 1,2,3.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1467.0,
+            "end": 1470.0,
+            "text": " Now we have not written the condition.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1470.0,
+            "end": 1473.0,
+            "text": " If we write a negative number for it, then we write it for it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1474.0,
+            "end": 1480.0,
+            "text": " If n is less than 0, you print it in that case.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1480.0,
+            "end": 1484.0,
+            "text": " Invalid number.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1484.0,
+            "end": 1486.0,
+            "text": " And from here you go return.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1486.0,
+            "end": 1489.0,
+            "text": " So return is the root of this phi.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1489.0,
+            "end": 1493.0,
+            "text": " If you do not return in the last row, then you have to return somewhere.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1493.0,
+            "end": 1497.0,
+            "text": " So you will write the returns statement in your function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1497.0,
+            "end": 1499.0,
+            "text": " You will return from there.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1500.0,
+            "end": 1503.0,
+            "text": " If we pass n less than 0.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1503.0,
+            "end": 1508.0,
+            "text": " That is, believe that we pass n as minus 5.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1508.0,
+            "end": 1511.0,
+            "text": " So here this valid number is printed.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1511.0,
+            "end": 1513.0,
+            "text": " So something like this will happen.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1513.0,
+            "end": 1515.0,
+            "text": " n less than 0 will happen.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1515.0,
+            "end": 1518.0,
+            "text": " If the statement will come in, if the block will come in.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1518.0,
+            "end": 1520.0,
+            "text": " Here this valid number is printed and returned from here.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1520.0,
+            "end": 1523.0,
+            "text": " In this loop, it is not here.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1523.0,
+            "end": 1525.0,
+            "text": " This work did not do it.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1525.0,
+            "end": 1528.0,
+            "text": " So where the return will come, it will return from there.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1528.0,
+            "end": 1530.0,
+            "text": " And from here we have to write the functions in our function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1530.0,
+            "end": 1534.0,
+            "text": " And from this way we have completed our print factorial function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1534.0,
+            "end": 1538.0,
+            "text": " In the description box, you will get the notes in the lecture.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1538.0,
+            "end": 1541.0,
+            "text": " I hope today's class will be helpful in the time of the time of the function.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1541.0,
+            "end": 1546.0,
+            "text": " One last thing we will discuss is what are the differences in the methods and functions.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1546.0,
+            "end": 1550.0,
+            "text": " So we will say that the functions and methods will be studied.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1550.0,
+            "end": 1556.0,
+            "text": " The functions and methods both are a block of code, which perform some operation.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1556.0,
+            "end": 1559.0,
+            "text": " They take input and output.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1559.0,
+            "end": 1570.0,
+            "text": " So the small difference in them is that we call methods through the objects of class through and functions.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1570.0,
+            "end": 1575.0,
+            "text": " So here we have not learnt the objects, we have made some object.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1575.0,
+            "end": 1578.0,
+            "text": " So here we have to write functions, we will say them.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1578.0,
+            "end": 1583.0,
+            "text": " But if we call the function of class by the help of the object,",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1583.0,
+            "end": 1586.0,
+            "text": " then we call the same function as method.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1586.0,
+            "end": 1589.0,
+            "text": " So the small difference is that they will understand.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1589.0,
+            "end": 1591.0,
+            "text": " So they will be a little bit easy.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1591.0,
+            "end": 1596.0,
+            "text": " We should know that the function will be called and when the method will be called.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1596.0,
+            "end": 1601.0,
+            "text": " I hope that the functions will be known about us and we will solve the problem of the home work.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1601.0,
+            "end": 1603.0,
+            "text": " We are practicing it with our own.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        },
+        {
+            "number": "2",
+            "start": 1603.0,
+            "end": 1607.0,
+            "text": " We will meet you in the next video till then keep learning and keep practicing.",
+            "title": "Functions & Methods Java Complete Placement Course Lecture 7 .mp3"
+        }
+    ],
+    "text": " Hi everyone and welcome to the Java placement course. Today's lecture will be about the functions or methods. Now, before talking about functions and methods, let's take a look at all the concepts we have in our lecture about our initials. All these concepts are fundamental to Java. That is, if you are programming in any language, then you should have some concepts in the C++, you are programming in Python and you are doing Java. So, the concepts are almost similar to all the languages. The language changes to code. That is why we are doing all these concepts. You will practice them as much as you can and learn them as soon as possible. We will get help in learning a strong command in a language. Now, let's talk about the methods in the Java. Now, the functions in the Java are called block of code. What happens is block of code. Here, there is a code written here. The input takes something, the operation takes something, and the output produces something. For example, if we take a thermometer from this block of code, then the thermometer is the work of the thermometer. It sends the temperature from your body to the temperature. The temperature is so much that it shows the output from that. Similarly, if we take the volume button of our phone, then what does the volume button do? Our thumb takes an input from our fingers, which we press and it takes the output to get the volume in our phone. Similarly, if we take a TV remote example, then the buttons in the TV remote are very large. Every button is performing in itself, this is a work of operation, which is performing the button. What does the input give? We press it in the input, and what does the output give? It gives us a result. The result is that the TV channel is on the serial of your news, or the discovery channel is on the serial. So, in this way, the functions are in our code, there is a block, a part of our code, which takes some input, and returns some output, which is performing an operation. Now, if we write the function, then the syntax of the function is something like this. We define the function first, its return type. So, first we will give its return type. Now, this return type can also be int, float, string, or any data type we have discussed, all the possible data types can be found. Our return type. Return type means, this type of value is returning. Now, the function of Java can be returned to one type of value. Or, it can be int, float value, string value, and we will be reading that areas and objects are also types. In these types, multiple values can be returned together. So, here, we have seen the examples we have seen, and we are returning single values. So, in our class, we will also take the examples of their functions, which I am returning single value. As if the return type of function is int, we will be able to return a integer type variable, and in this way, if it is float type, then we will be able to return a float type variable. Along with this, there is another special return type, which we call void. Void means no return. Whenever we write a function's return type, we write void, meaning, it does not return anything. Now, Java's first function we had written was in our public static void, which we write in every code. So, whatever methods we are talking about, the main function is in our code, which if you look at the return type, then it is void. Now, what is the public static void? So, public and static are two keywords. First is public, second is static. These are the main classes, which are in our primary class, and why we write them? In the next step, we will learn an object-oriented programming name, which we will explain in public, which is the meaning of the word, and the meaning of the static. But, now, we will learn that the function we write in our primary class, we will be able to write them all by default by the public static. So, in front of our public static, we will write some of the returns type in this way. Then, our return type will be returned. Then, we will write our function name. Now, this function's name can be something, which we should also give, that is possible. There is only one condition, that the word is not a keyword. That is, we had already talked about keywords, which are defined in a dictionary. These words are fixed, they cannot be used for any other work of the word. So, whenever we have to define a function name, then we have to get a name from our own side, which we should not get from the word before. As we can write the name of this function, print, my name, then we will learn the name of the function, that this function's name is to print my name. Or, we can give this function's name, calculate, sum. So, we will know clearly, that this function is to calculate the sum. Now, we will be able to make a good program, when we will keep the name of the functions, that we will know the name, what function we are working on, what operation is performing. So, we talked about two things, first of all, our return type. Then, we will be giving our function's name. Then, our arguments are called inputs. We have all the inputs, we call them arguments. So, we can also get two arguments in one time, and we can also get many arguments. First of all, we define the type, which type of argument we are defining. As we defined the return type, this type of argument can be something. This can be int, float, string, your Boolean can be something. And so on. Then, we write our argument name. Now, as we want to give an input, then how we will write int, age, age, and with age, we also have to give the temperature of that person, which is a float value. So, how we will give it? Float, temperature. So, in this way, we have to write a comma, we can pass multiple arguments in a function, and all these arguments are called inputs. We write the parenthesis in it, and separate it from the comma. And, we can take all the arguments in different types, such as the same, and we have written a return type, the function name, the arguments are all taken, the input is taken. Now, we will perform some operations within the curly braces. As we write the same code, the same steps we have written in the main function, all these steps can be written within this function. So, in a way, we write all the things within the function, we define all these things, what is the work of this function, and what is the operation performing. Now, let's take an example, we have a question, print a given name in a function. What will you do? You will take an input from a user, and call a function. We will take the name of the function, print, my, name. Now, the print name, which is also a function, we will print our name in this, and we will call this function to execute this function, to execute this function, to use the statement that how to execute this function, how to run, how to see it in the code. Now, first of all, we have defined our code in our class, our functions. In it, the main function we already wrote, now what will we do? We will make a new function. The name of the new function is public static, which is the first two keywords we write in my default, we will keep this return type void, because no function will perform any work. The name of this function is just to print our name. So, let's give it the name print my name. Now, in Java, we have different different variables, or identifier, the name we have given in Java, they are different in different ways. We are going from the topic, but to learn this, if we want to write something, like print my name, we could write it like this, print my name, we could write it like this, print underscore my underscore name, we could write it like this, print capital MY, capital N, and no. So, we are following this convention, which we call as camel case. So, upper case, and lower case, that the way to write letters is right, the beginning word is, you write all the lower cases, small characters, and then, as you are writing words, in the first letter, capital of the word, we call it as camel case. Now, in Java, we will use the term camel case, because by default, all the functions in Java are written in camel case. If we talk about Python, then in Python, this word case is used, in JavaScript, in other cases, in By default, in Java, we will use this word case, because code is systematic again. We will write all the functions and variables in this camel case. So, a uniformity will come, we will show all the code in our code, neat and clean and like this. Now, now, in public static void print, we have called it, what is the argument in it? The argument will be one, or the input will be one. We have to give this function in the input, our name, so that we can print it. So, the type of input, we will write a string, and what is the name of the argument? Let's give it a name. And in this function, we will write print statements, print our name, and now, we have to leave this function, that means, this function is finished, now, we have to leave it outside. So, we use a return keyword, return means, that wherever you come to work, you come to work inside this function, now, you come outside. If this function was doing some output return, that means, you were doing the integer return. So, here, in return, the integer, we would return it. So, it is one integer, so, we have written one in the example, that this function has been printed, and now, we are doing this one return. But, we will keep the type, the void return will not be anything, and the void return will not be anything. Now, for this function, we will take an input from the user, to take an input from the user, we will make a scanner object, a scanner class. So, we will take a string type, name input, sc.next. And what we will do, is, we will call this function print my name, which is the main function, that means, we will call this from the main function, and we will do the work. So, we will write the name of print my name, and then, we will see that, we will pass all the inputs in the parent, here, there is only one input, which is name, we passed it. So, this much code, you printed the name of the name, the main function, and the name of the name, we called the function, so, here, we called the function, and here, we have declared our function, as soon as we call it, we will reach the print my name, where the name will be printed, and we will return it, and return it in the main function. Now, let's save it and run it. The output that we have come, first of all, we have to type in name, so, let's type in name, and we have given the input name, and we have printed the name for us, and returned it. So, in some way, our function has printed our name, and we have echoed it. Now, let's understand, what impact does the function of using the function of memory is, as we make the function of the code, inside the code, what is the function of memory? Let's assume that our function was a main, so, here, we will write, public, static, void, main. Now, the main function, within this, something has been done, and it has called, new function, and here, our public, static, void, was a new function. Now, first of all, the most important functions, are the functions of all the memory from a stack form. So, if you have a book on the same page, when you write a book on the same page, or you have a book on the same page, then how do we write a book on one page, on one page, on one page, we call it a stack formation. What do we call it? Stack formation. If you are keeping a plate, then you will keep a plate on one page, and we will also stack it on the plate, we will stack books, and if you keep a plate on one page, then it will stack on the plate. So, stack means, keep one page on one page, and when we have a function inside the memory, it is saved in a stack form. And in a stack, we call it a stack frame. So, as the main function is created in the memory, the first stack frame that will be created, will be our main function. So, here, the memory will be something, which will allocate our main function, and the variables in the main function will be stored, and the same way, the main function will be called, and this new function will be created. So, what happens? There will be another stack frame. So, the main function will be called, and another stack frame will be created, for which, for our new function, the variables of the new function will be stored, and as soon as the new function returns, or the new function returns the main function, then the new function will be removed from memory, and then, the main function will be saved in memory, and as the main function is over, then, the main function will be removed from memory. So, in some way, there is work in memory in this way, whenever we create functions, we get a function stored in the memory stack, All the variables are stored in the same memory stack frame. So, the more you make the function, the more your memory stack will be. The more you call the function, the more your memory stack will be. How does memory work? When we define the variables, we define the other things. We will learn about the objects in the class of the game. Because how does memory work? On the other hand, the objects and the objects are so different. The impact of the object is that, when we learn the objects in the class of the game, we will understand that the different parts of the game are working in the same way. But we discussed here how functions work in the memory. So, in the form of stack, we have some questions to practice. The more the commands of the functions, the stronger the function will be. We will understand how functions work. A question is, make a function to add two numbers and return the sum. So, what do I have to do with the user? Take two numbers. First of all, we input these two numbers. Int A is equal to SC dot next int. Int B is equal to... What we will do after that, we will remove our old function and make a new function. We will give the name of the new function. We will give this return type int because this time, we will return the sum of these two numbers. So, let's give the name of the return type int. Calculate sum. Calculate sum will be in two parameters. Int A and int B. So, what we have to do now is calculate the sum of these two parameters. Int sum is equal to A plus B and returns the sum of these parameters. So, this way, the sum is also an integer value. So, what we have done here is, let's make a main function for some variable. So, the one that we have made for some variable is calculated for some. Now, we will make the main function for some variable. Int sum is equal to... We had called, we will calculate sum, calculate sum, pass A and B. And after passing A and B, we will output all the variables. We will store it equal to this, it is a new sum. And then we will do this sum. Print. And if we save it and run it, So, first we will pass the code to A3. Then we will pass B, which is 4 and we have some returns, which is 7. It is more or less understood. So, sum of two numbers is... ...one more time, we will run it again. And this time we will pass 6 and 2. So, sum of two numbers is 8. We have returned it. So, in this way, we can make a function for two numbers. Now, the arguments we are taking in our function, int A, int B, string A, string B, All these arguments are passed in two ways. Or, we can pass this by reference, or by value. What does it mean? We will learn this in a long time, when we are reading advanced data types. Because, in advanced data types, by reference things are passing, So, what does it mean by reference? Or, what does it mean to pass? We will be understanding later. So, if you are reading articles online, and are learning from yourself, and you have written such things, then we will talk about the next lectures. We will cover those topics in the next lectures. So, the next question is, the next question is, Make a function to multiply two numbers and return the product. So, we will do the same thing. We will make a function. We will be entering the function in two numbers, int A and int B. And, what will be the return? A into B. Now, write a code for this. A and B, we have taken the first input. We will make a new function this time. Let us comment this. Out. Public static int calculate product. The two numbers will be in the calculate product. int A and int B. What do we do this time? We will define the variable, We can calculate A and B directly, A into B. We will do the same value, return. So, we can also return directly to this value. We need to define a new variable. Let us do the same. What will we do here? We will directly print here. We will not store in the variable. Let us write here product. And, we will call here, we have printed the function in the print statement. So, let us write calculate product, which we have in A and B. And, whatever return product will be in the print statement, it will be in the print statement. We have done this and run it. So, let us do A and B and pass it to B. So, 2 into 3, so, product of 2 numbers is 6. We have a correct input. Now, if we talk about the next question, the next question is, find the factorial of a number. We used to study in 1112, what was the factorial? For any number, n is factorial. n multiplied by n minus 1 multiplied by n minus 2 multiplied by n minus 3. And, so, until n is the degree, n is not the one. By default, 0 factorial is the value of 1. For the negative numbers, we do not find factorial. There is no factorial for negative numbers. Similarly, if we look at 1 factorial, then 1 is the one. If we look at 2 factorial, then 2 into 1 is the one. That is, 2. If we look at 3 factorial, then 3 into 2 into 1 is the one. 6 is the one. 4 factorial is the one. Similarly, 4 into 3 into 2 into 1. That is, our 24 is the one. And, similarly, 5 factorial is the one. 5 into 4 into 3 into 2 into 1 is equal to 120. So, in this way, we calculate the number of factorial. How do we calculate the number of factorial? We are taking the number from that number to 1 and multiplying the number. Now, we are understanding that the number of the number of the factorial is multiplying. We are multiplying the number of the factorial. So, here, we are going to take the help of loops. So, we are calculating the number of the factorial of the loops. So, let's go ahead. Let's take an input of n minus n minus n is equal to sc dot next. n is equal to sc dot next. Let's take an input from the number. Now, let's comment down. And, we will write our function to calculate factorial. So, we write the public static as such. The factorial, which I am not getting a return, will directly print it. So for that we keep the return type to void and write the name of function Print factorial. Print factorial will have a number in the integer n. And what we will do now is a loop. So in the loop, we will run a for loop. We saw the pattern that the i in the for loop is from n to the 1 and i minus minus ho every time. And we multiply it with the same number. So here we will make a new variable that will calculate the factorial will initialize it with 1. We can initialize the factorial with 0 but 0 factorial is 1. And if we multiply it with 0 then all values will be 0. So by default we will take 1 in the beginning and now what we will do? We multiply the factorial every time with our i. So factorial into i and return it in the last one. We will return the value of our factorial. We will not return here. We will print the value of our factorial. And we will do this return. Now the special thing is that if you have a void in your function and you don't have a return then you can also return it with this function. So for void functions we are still writing it so that the return is clear. Now you will see the main function that is also a void return. But it doesn't come in a return statement because its return is not doing anything. But here in this function we write the return and it will not be a problem. So now we are learning in the beginning and write the return type. So that you remember that you have to return it with the function. So the type of void is called print factorial. It is the integer and n-argument. We have started the loop with a variable with the initialized of the initialized. In the loop we go i is equal to n and 1. And i has done it minus minus. Means decrease by 1. With every iteration, with every step. We have multiplied the factorial in this way. And then we have printed the factorial. Now let's put the main function in the call. Let's pass the factorial in which we will pass our number n. Now if we run this code. First of all we calculate factorial. For 3, we have to calculate factorial from 6. If we run it again from 2nd to 1st. So this time we calculate factorial. For 5, we have to get 1,2,3. Now we have not written the condition. If we write a negative number for it, then we write it for it. If n is less than 0, you print it in that case. Invalid number. And from here you go return. So return is the root of this phi. If you do not return in the last row, then you have to return somewhere. So you will write the returns statement in your function. You will return from there. If we pass n less than 0. That is, believe that we pass n as minus 5. So here this valid number is printed. So something like this will happen. n less than 0 will happen. If the statement will come in, if the block will come in. Here this valid number is printed and returned from here. In this loop, it is not here. This work did not do it. So where the return will come, it will return from there. And from here we have to write the functions in our function. And from this way we have completed our print factorial function. In the description box, you will get the notes in the lecture. I hope today's class will be helpful in the time of the time of the function. One last thing we will discuss is what are the differences in the methods and functions. So we will say that the functions and methods will be studied. The functions and methods both are a block of code, which perform some operation. They take input and output. So the small difference in them is that we call methods through the objects of class through and functions. So here we have not learnt the objects, we have made some object. So here we have to write functions, we will say them. But if we call the function of class by the help of the object, then we call the same function as method. So the small difference is that they will understand. So they will be a little bit easy. We should know that the function will be called and when the method will be called. I hope that the functions will be known about us and we will solve the problem of the home work. We are practicing it with our own. We will meet you in the next video till then keep learning and keep practicing."
+}
